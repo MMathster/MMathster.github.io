@@ -1,0 +1,32 @@
+title: "Michael Huang"
+subtitle: "Independent Mathematician & Analyst"
+description: ""
+url: "https://mmathster.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  syntax_highlighter: rouge
+
+minimal_mistakes_skin: "dark"
+
+author:
+  name: "Michael Huang"
+  avatar: 
+  bio: "Independent mathematician and data analyst."
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+
+toc:
+  sticky: true
