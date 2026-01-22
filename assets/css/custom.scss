@@ -1,0 +1,41 @@
+// Typography contrast
+body {
+  background-color: #0e1117;
+  color: #e6edf3;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+// Headings
+h1, h2, h3, h4 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+// Links
+a {
+  color: #58a6ff;
+}
+a:hover {
+  color: #79c0ff;
+  text-decoration: underline;
+}
+
+// Navigation bar size
+.greedy-nav {
+  font-size: 0.95rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+// Content width balance
+.page__content {
+  max-width: 900px;
+}
+
+// Code blocks
+pre, code {
+  background-color: #161b22;
+  color: #e6edf3;
+  font-size: 0.9em;
+}
