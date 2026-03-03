@@ -2,7 +2,6 @@ title: "Michael Huang"
 subtitle: "Independent Mathematician & Quantitative Analyst"
 description: ""
 url: "https://mmathster.github.io"
-
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -10,15 +9,14 @@ plugins:
 
 markdown: kramdown
 kramdown:
-  math_engine: katex
   syntax_highlighter: rouge
 
 minimal_mistakes_skin: "dark"
 
 author:
   name: "Michael Huang"
-  avatar: 
-  bio: "Independent mathematician and data analyst."
+  avatar:
+  bio: "Independent Mathematician & Quantitative Analyst"
 
 defaults:
   - scope:
