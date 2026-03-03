@@ -24,7 +24,7 @@ generalized and non-standard analytic domains.
 Recent work concerns the evaluation and structural generalization of advanced
 integral classes, including identities involving Meijer G-functions and
 generalized hypergeometric functions
-<img src="https://latex.codecogs.com/svg.image?{}_pF_q" 
+<img src="https://latex.codecogs.com/svg.image?\color{white}{}_{p}F_{q}" 
      alt="pFq hypergeometric function" 
      style="vertical-align:middle; height:1.1em; display:inline;">,
 closed-form analysis of polylogarithmic integrals, and structural treatment
