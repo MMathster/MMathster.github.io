@@ -1,11 +1,13 @@
 main:
   - title: "Home"
     url: /
+  - title: "About"
+    url: /about/
   - title: "Mathematics"
     url: /mathematics/
   - title: "Projects"
     url: /projects/
   - title: "CV"
     url: /cv/
-  - title: "About"
-    url: /about/
+  - title: "Contact"
+    url: /contact/
