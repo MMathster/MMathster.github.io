@@ -7,18 +7,17 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+include:
+  - _pages
+
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
-  input: GFM
-  hard_wrap: false
-  math_engine: null
 
 minimal_mistakes_skin: "dark"
 
 author:
   name: "Michael Huang"
-  avatar:
   bio: "Independent Mathematician & Quantitative Analyst"
 
 defaults:
