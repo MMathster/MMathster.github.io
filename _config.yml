@@ -10,6 +10,9 @@ plugins:
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  math_engine: null
 
 minimal_mistakes_skin: "dark"
 
