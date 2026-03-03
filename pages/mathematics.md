@@ -23,7 +23,7 @@ Includes treatment of floor functions, fractional-part functions, and nearest-in
 Closed-form analysis of polylogarithmic integral classes beyond standard reference tables.
 
 **Meijer G-Functions and Hypergeometric Identities** *(in preparation)*  
-Development of identities involving $${}_{p}F_{q}$$ and Meijer G-functions as unifying frameworks
+Development of identities involving ${}_{p}F_{q}$ and Meijer G-functions as unifying frameworks
 for diverse analytic results.
 
 ---
