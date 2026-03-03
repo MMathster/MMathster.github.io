@@ -24,9 +24,8 @@ generalized and non-standard analytic domains.
 Recent work concerns the evaluation and structural generalization of advanced
 integral classes, including identities involving Meijer G-functions and
 generalized hypergeometric functions
-<img src="https://latex.codecogs.com/svg.image?\color{white}{}_{p}F_{q}" 
-     alt="pFq hypergeometric function" 
-     style="vertical-align:middle; height:1.1em; display:inline;">,
+<img src="https://latex.codecogs.com/svg.image?\color{white}{}_{p}F_{q}"
+     alt="pFq" style="vertical-align:middle; height:1.1em; display:inline;">,
 closed-form analysis of polylogarithmic integrals, and structural treatment
 of integrals involving floor, fractional-part, and nearest-integer functions.
 These require careful analytic partitioning and rigorous treatment of
@@ -37,17 +36,37 @@ discontinuous domains.
 Earlier work explored triangle center loci and geometric invariants under
 constrained configurations — specifically, right triangles inscribed in a
 fixed circle. Centers investigated include the Nine-Point Center
-(X&#8325;), Symmedian Point (X&#8326;), Gergonne Point (X&#8327;),
-Nagel Point (X&#8328;), Mittenpunkt (X&#8329;), Feuerbach Point
-(X&#8321;&#8321;), and the Fermat Points (X&#8321;&#8323;, X&#8321;&#8324;).
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_5"
+     alt="X5" style="vertical-align:middle; height:1.1em; display:inline;">),
+Symmedian Point
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_6"
+     alt="X6" style="vertical-align:middle; height:1.1em; display:inline;">),
+Gergonne Point
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_7"
+     alt="X7" style="vertical-align:middle; height:1.1em; display:inline;">),
+Nagel Point
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_8"
+     alt="X8" style="vertical-align:middle; height:1.1em; display:inline;">),
+Mittenpunkt
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_9"
+     alt="X9" style="vertical-align:middle; height:1.1em; display:inline;">),
+Feuerbach Point
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_{11}"
+     alt="X11" style="vertical-align:middle; height:1.1em; display:inline;">),
+and the Fermat Points
+(<img src="https://latex.codecogs.com/svg.image?\color{white}X_{13}"
+     alt="X13" style="vertical-align:middle; height:1.1em; display:inline;">,
+<img src="https://latex.codecogs.com/svg.image?\color{white}X_{14}"
+     alt="X14" style="vertical-align:middle; height:1.1em; display:inline;">).
 Derivations combine coordinate parametrization with barycentric and trilinear
 methods, drawing on Clark Kimberling's *Encyclopedia of Triangle Centers*
 as a coordinate foundation.
 
 A recurring structural interest is the transition between smooth and non-smooth
 analytic behavior — visible in both the self-intersecting locus of
-X&#8321;&#8321; and the discontinuous partitioning required in integer-part
-integral evaluation.
+<img src="https://latex.codecogs.com/svg.image?\color{white}X_{11}"
+     alt="X11" style="vertical-align:middle; height:1.1em; display:inline;">
+and the discontinuous partitioning required in integer-part integral evaluation.
 
 <hr>
 
@@ -56,4 +75,32 @@ integral evaluation.
 Analytical work is routinely accompanied by numerical verification and
 computational exploration using Python and Mathematica. This integration is
 not supplementary — it is part of the methodology: symbolic derivation
-proceeds alongside computational cross-checking, and interactive constructi
+proceeds alongside computational cross-checking, and interactive constructions
+in GeoGebra support structural intuition before formalization.
+
+<hr>
+
+## Applied Analytical Experience
+
+In parallel with independent mathematical research, Michael held dual roles
+at AiCure as a Fulfillment Associate and Interim Programmer Analyst.
+
+Operational responsibilities included quantitative inventory modeling for
+patient-facing mobile devices — tracking state transitions across active,
+malfunctioning, and retired assets, and forecasting allocation needs through
+statistical modeling. Applied analysis of lithium-ion battery behavior in
+Android devices provided practical documentation on charging specifications
+and device longevity, grounded in electrochemical fundamentals.
+
+As an Interim Programmer Analyst, responsibilities included structured
+biostatistical review of application-derived datasets, data validation,
+anomaly detection, and interpretive scrutiny — with particular attention
+to preventing statistical misrepresentation in clinical reporting pipelines.
+
+<hr>
+
+## Languages
+
+Mathematical contributions have been produced in English, Spanish, Japanese,
+and Chinese — reflecting both multilingual engagement with STEM communities
+and a sustained commitment to accessibility across audiences.
