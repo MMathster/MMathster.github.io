@@ -6,7 +6,7 @@ toc: false
 
 ## Michael Huang
 
-Independent Mathematician & Quantitative Analyst
+Independent STEM Learning Content Developer & Quantitative Analyst
 New York City Metropolitan Area
 
 [mmathster.github.io](https://mmathster.github.io) ·
@@ -22,7 +22,7 @@ Bachelor of Arts in Pure Mathematics, 2014
 
 <hr>
 
-### Independent Mathematical Research
+### Independent STEM Learning Content Developer
 
 *2017 – Present*
 
