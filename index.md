@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 # Michael Huang
-**Independent Mathematician & Analytical Systems Thinker**
+**Independent STEM Learning Content Developer & Analytical Systems Thinker**
 
 ---
 
