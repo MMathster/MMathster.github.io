@@ -24,7 +24,7 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
 **Highlights:**
-- Compute and visualize multiple triangle centers including centroid (X₁), incenter (X₂), circumcenter (X₃), and more.  
+- Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
 - Explore dynamic loci: see how changing vertex positions affects center locations.  
 - Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
 - Fully reproducible — all code and dependencies are included in the repository.
