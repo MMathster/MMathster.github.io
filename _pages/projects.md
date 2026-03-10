@@ -17,7 +17,8 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 Deep dive into triangle centers with applications of algebraic geometry and topology.
 
-- [Thales Configuration](assets/etccenter20260308.pdf)
+- <a href="assets/etccenter20260308.pdf" download class="download-btn">
+  Thales Configuration</a>
 
 ### Experimental Geometry: Kimberling Triangle Centers
 
