@@ -1,5 +1,5 @@
 title: "Michael Huang"
-subtitle: "Independent Mathematician & Quantitative Analyst"
+subtitle: "Independent STEM Content Developer & Quantitative Analyst"
 description: ""
 url: "https://mmathster.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark"
 
 author:
   name: "Michael Huang"
-  bio: "Independent Mathematician & Quantitative Analyst"
+  bio: "Independent STEM Content Developer & Quantitative Analyst"
 
 defaults:
   - scope:
