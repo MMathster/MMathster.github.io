@@ -15,7 +15,7 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 ### Experimental Geometry: Kimberling Triangle Centers
 
-Explore the fascinating world of triangle centers ($X_1$-$X_n$) with interactive tools and dynamic visualizations.
+Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
 
 - **Notebook (GitHub)**:  
   [![View Notebook](https://img.shields.io/badge/GitHub-Notebook-blue?logo=github)](https://github.com/MMathster/MMathster.github.io/blob/main/assets/experimental_center.ipynb)
