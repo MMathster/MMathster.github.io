@@ -11,22 +11,12 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 ---
 
-### Geometric Constructions
+### Experimental Geometry Centers
+- **Notebook:** [View on GitHub](https://github.com/MMathster/MMathster.github.io/blob/main/assets/experimental_center.ipynb)  
+- **Interactive Dashboard:** [Launch Dashboard](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-**Triangle Center Loci — Right Triangle in Fixed Circle** *(in development)*  
-Interactive GeoGebra construction tracing the loci of selected Kimberling centers as the right-angle
-vertex moves along a fixed circle.
-
-Centers included: X₅, X₆, X₇, X₈, X₉, X₁₁, X₁₃, X₁₄.
-
-The X₁₁ (Feuerbach Point) locus exhibits a characteristic self-intersection — a bowtie-shaped curve —
-arising from the geometric constraints of the Thales configuration.
-
+> Explore triangle centers dynamically using sliders and parameters!
 *Formal derivation in progress: see [Mathematics](/mathematics/).*
-
-**Symmedian and Nagel Locus Comparison** *(in development)*  
-Parallel visualization of X₆ and X₈ loci, examining structural symmetry and deviation
-under parameter variation.
 
 ---
 
