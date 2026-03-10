@@ -13,6 +13,12 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 ## 🧮 Mathematics Projects – Triangle Centers
 
+### Loci of Kimberling Centers in the Thales Configuration: An Analytic and Algebraic Approach
+
+Deep dive into triangle centers with applications of algebraic geometry and topology.
+
+- [Thales Configuration](/assets/etccenter20260308.pdf)
+
 ### Experimental Geometry: Kimberling Triangle Centers
 
 Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
