@@ -2,20 +2,19 @@
 notebook>=6.5.0
 ipywidgets>=8.1.0
 
-# Numerical & plotting
+# Numerical & plotting libraries
 numpy>=1.25.0
 scipy>=1.12.0
 matplotlib>=3.8.0
 sympy>=1.12.0
+pandas>=2.1.0
 
-# Optional interactive plotting (if used in notebook)
+# Optional interactive plotting
 plotly>=6.0.0
 
-# For displaying LaTeX nicely
-IPython>=8.17.0
+# Dashboard runtime
+voila>=0.5.0
 
-# For exporting or rendering notebooks
+# For exporting/rendering notebooks
 nbconvert>=7.7.0
-
-# Optional: if using pandas for data
-pandas>=2.1.0
+IPython>=8.17.0
