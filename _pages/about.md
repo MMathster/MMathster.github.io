@@ -41,23 +41,12 @@ fixed circle. Centers investigated include the Nine-Point Center
 Symmedian Point
 (<img src="https://latex.codecogs.com/svg.image?\color{white}X_6"
      alt="X6" style="vertical-align:middle; height:1.1em; display:inline;">),
-Gergonne Point
-(<img src="https://latex.codecogs.com/svg.image?\color{white}X_7"
-     alt="X7" style="vertical-align:middle; height:1.1em; display:inline;">),
 Nagel Point
 (<img src="https://latex.codecogs.com/svg.image?\color{white}X_8"
-     alt="X8" style="vertical-align:middle; height:1.1em; display:inline;">),
-Mittenpunkt
-(<img src="https://latex.codecogs.com/svg.image?\color{white}X_9"
-     alt="X9" style="vertical-align:middle; height:1.1em; display:inline;">),
+     alt="X8" style="vertical-align:middle; height:1.1em; display:inline;">) and 
 Feuerbach Point
 (<img src="https://latex.codecogs.com/svg.image?\color{white}X_{11}"
-     alt="X11" style="vertical-align:middle; height:1.1em; display:inline;">),
-and the Fermat Points
-(<img src="https://latex.codecogs.com/svg.image?\color{white}X_{13}"
-     alt="X13" style="vertical-align:middle; height:1.1em; display:inline;">,
-<img src="https://latex.codecogs.com/svg.image?\color{white}X_{14}"
-     alt="X14" style="vertical-align:middle; height:1.1em; display:inline;">).
+     alt="X11" style="vertical-align:middle; height:1.1em; display:inline;">).
 Derivations combine coordinate parametrization with barycentric and trilinear
 methods, drawing on Clark Kimberling's *Encyclopedia of Triangle Centers*
 as a coordinate foundation.
