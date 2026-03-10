@@ -34,7 +34,7 @@ generalized domains.
 **Current focus — Higher Analysis**
 
 Structural analysis of special functions and integral classes, including
-generalized hypergeometric functions \\({}_{p}F_{q}\\), polylogarithmic
+generalized hypergeometric functions ${}_pF_q$, polylogarithmic
 integrals, and integrals involving floor and fractional-part functions.
 Work is produced in LaTeX and verified computationally using Python and
 Mathematica.
