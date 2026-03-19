@@ -26,6 +26,8 @@ where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an adm
   <img src="https://img.shields.io/badge/Download-Project_Specs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white">
 </a>
 
+[![Download PDF Banner](https://img.shields.io/badge/View_Document-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](./assets/logfrac20260318.pdf)
+
 ---
 
 ## Geometry & Structural Invariants
