@@ -21,7 +21,8 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-<a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" style="text-decoration: none;">
+- **Loci of Triangle Centers Between $X_1$ and $X_6$**:
+  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" style="text-decoration: none;">
   <div style="
     width: 800px;
     max-width: 100%;
