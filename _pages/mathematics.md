@@ -22,11 +22,21 @@ $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
 
-<a href="./assets/logfrac20260318.pdf" download>
-  <img src="https://img.shields.io/badge/Download-Project_Specs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white">
+<a href="logfrac20260318.pdf" target="_blank" style="
+  display:block;
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 20px;
+  text-align:center;
+  font-size: 22px;
+  color: white;
+  border-radius: 15px;
+  width: 320px;
+  margin: 40px auto;
+">
+  🚀 Research PDF
 </a>
-
-[![Download PDF Banner](https://img.shields.io/badge/View_Document-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](./assets/logfrac20260318.pdf)
 
 ---
 
@@ -43,8 +53,20 @@ Coordinates grounded in barycentric and trilinear definitions from Clark Kimberl
 *Encyclopedia of Triangle Centers*.  
 Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
-<a href="./assets/etccenter20260308.pdf" download>
-  <img src="https://img.shields.io/badge/Download-Project_Specs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white">
+<a href="etccenter20260308.pdf" target="_blank" style="
+  display:block;
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 20px;
+  text-align:center;
+  font-size: 22px;
+  color: white;
+  border-radius: 15px;
+  width: 320px;
+  margin: 40px auto;
+">
+  🚀 Research PDF
 </a>
 
 *Interactive companion available in [Projects](/projects/).*
