@@ -35,8 +35,6 @@ Inspired by my previous dual-role work at AiCure as fulfillment associate and pr
 
 - **ETC Center Table Repository (Github)**:
   [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
-  </a>
-</div>
 
 **Highlights:**
 - Extract barycentric coordinates from Evansville's *Encyclopedia of Triangle Center* sites.
