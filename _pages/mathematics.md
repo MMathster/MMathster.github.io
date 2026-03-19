@@ -16,7 +16,7 @@ Work is organized by research area. PDFs are added progressively as manuscripts 
 Analyzes properties and extensions of Gamma-type/Uniform-type integral in the form of
 
 $$
- \int\limits_0^1 \left(\prod\limits_{i = 1}^n x_i\right)^{\alpha - 1} \left\{\left(\prod\limits_{i = 1}^n x_i\right)\right\}^{\beta}Q\left(\left(\prod\limits_{i = 1}^n x_i\right)\right)\,\mathrm{d}x_1\dots\mathrm{d}x_n
+ \int\limits_0^1 \left(\prod\limits_{i = 1}^n x_i\right)^{\alpha - 1} \mathrm{frac}\left\(\ln\left(\prod\limits_{i = 1}^n x_i\right)\right\)^{\beta}Q\left(\left(\prod\limits_{i = 1}^n x_i\right)\right)\,\mathrm{d}x_1\dots\mathrm{d}x_n
 $$
 
 where $\Re(\alpha) > 0$ and $\beta$ is a non-negative integer.
