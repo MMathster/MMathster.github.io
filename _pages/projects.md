@@ -25,7 +25,7 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 
 This interactive widget is a demo, showing loci of six triangle centers between $X_1$ and $X_6$.
 
-- <div align="center" style="margin-bottom: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <p style="font-size: 0.9rem; color: #666;">Prefer a full-screen experience?</p>
   <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-banner">
     <img src="https://img.shields.io/badge/Open_Full_Screen-GeoGebra-6666FF?style=for-the-badge&logo=geogebra" alt="Full Screen Widget">
