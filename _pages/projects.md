@@ -13,9 +13,9 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 ## 🧮 Special Functions
 
-### Classes of Logarithmic Fractional Part Function
+### Classes of Negative Fractional Part Function
 
-For positive real arguments, a fractional part function $\{x\}$ is defined to be $x - \lfloor x\rfloor$. Inspired by problems shared by STEM communities in 2026, my work analyzes classes of integrals, involving negative fractional part functions.
+For positive real arguments, the universal definition of a fractional part function $\{x\}$ is $x - \lfloor x\rfloor$. On the other hand, for negative real arguments, there are two different definitions of a fractional part function! Inspired by problems shared by STEM communities in 2026, my work analyzes classes of integrals, involving negative fractional part functions.
 
 - <a href="/assets/etccenter20260308.pdf" download class="download-btn">
   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -27,6 +27,10 @@ For positive real arguments, a fractional part function $\{x\}$ is defined to be
   </svg>
   <span>Download Logarithm Fractional Part Function Integral PDF</span>
 </a>
+
+**Highlights**
+- Compare two integral forms, one using Fourier definition and another using Knuth definition.
+- Include classes of integrals, involving negative fractional part functions.
 
 ## 🧮 Triangle Centers
 
