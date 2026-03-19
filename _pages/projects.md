@@ -36,7 +36,7 @@ For positive real arguments, the universal definition of a fractional part funct
 
 ### Loci of Kimberling Centers in the Thales Configuration: An Analytic and Algebraic Approach
 
-Deep dive into triangle centers with applications of algebraic geometry and topology.
+This article analyzes parametric curves of the locus of a triangle center $X_n$ defined in the *Encyclopedia of Triangle Center* sites. Deep dive into triangle centers with applications of algebraic geometry and topology.
 
 - <a href="/assets/etccenter20260308.pdf" download class="download-btn">
   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -58,6 +58,16 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
+
+### Kimberling Triangle Center Loci Compilation (In Progress)
+
+Inspired by my previous dual-role work at AiCure as fulfillment associate and programmer analyst, I displayed interest to extract coordinates and symbolically compute parametric curves for each triangle center $X_n$.
+
+- **ETC Center Table Repository**: <div align="center">
+  <a href="[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/MMathster/ETC-Center-Table)">
+    <img src="https://via.placeholder.com/800x200.png?text=Visit+My+Other+Repository" alt="Project Banner" style="width:100%; max-width:800px; border-radius: 10px;">
+  </a>
+</div>
 
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
