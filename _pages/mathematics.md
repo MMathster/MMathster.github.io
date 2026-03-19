@@ -10,7 +10,17 @@ Work is organized by research area. PDFs are added progressively as manuscripts 
 
 ---
 
-## Special Functions
+<div style="
+  max-width:700px;
+  margin:40px auto;
+  padding:25px;
+  border-radius:16px;
+  background: #f5f7fa;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  text-align:center;
+">
+
+## 📊 Special Functions
 
 **Classes of Logarithmic Fractional Part Function** (2026)
 
@@ -21,18 +31,6 @@ $$
 $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
-
-<div style="
-  max-width:700px;
-  margin:40px auto;
-  padding:25px;
-  border-radius:16px;
-  background: #f5f7fa;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-  text-align:center;
-">
-  <h2>📊 Fractional Part Functions Research</h2>
-  <p>Interactive mathematical exploration with data science insights.</p>
 
   <a href="logfrac20260318.pdf" target="_blank" style="
     display:inline-block;
@@ -46,7 +44,6 @@ where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an adm
   ">
     View Full PDF
   </a>
-</div>
 
 ---
 
@@ -63,10 +60,18 @@ Coordinates grounded in barycentric and trilinear definitions from Clark Kimberl
 *Encyclopedia of Triangle Centers*.  
 Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
-<a href="./assets/etccenter20260308.pdf" target="_blank">
-  <img src="banner-image.png" alt="Download PDF"
-       style="width:100%; max-width:600px; display:block; margin:auto; border-radius:12px;">
-</a>
+  <a href="etccenter20260308.pdf" target="_blank" style="
+    display:inline-block;
+    margin-top:15px;
+    padding:14px 28px;
+    background:#2a5298;
+    color:white;
+    border-radius:10px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    View Full PDF
+  </a>
 
 *Interactive companion available in [Projects](/projects/).*
 
@@ -82,3 +87,4 @@ These represent active structural investigations rather than completed results.
 ---
 
 *All manuscripts are independent mathematical notes. Formal PDFs will be linked upon completion.*
+</div>
