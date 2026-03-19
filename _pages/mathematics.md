@@ -22,10 +22,31 @@ $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
 
-<a href="./assets/logfrac20260318.pdf" target="_blank">
-  <img src="banner-image.png" alt="Download PDF"
-       style="width:100%; max-width:600px; display:block; margin:auto; border-radius:12px;">
-</a>
+<div style="
+  max-width:700px;
+  margin:40px auto;
+  padding:25px;
+  border-radius:16px;
+  background: #f5f7fa;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  text-align:center;
+">
+  <h2>📊 Fractional Part Functions Research</h2>
+  <p>Interactive mathematical exploration with data science insights.</p>
+
+  <a href="logfrac20260318.pdf" target="_blank" style="
+    display:inline-block;
+    margin-top:15px;
+    padding:14px 28px;
+    background:#2a5298;
+    color:white;
+    border-radius:10px;
+    text-decoration:none;
+    font-weight:bold;
+  ">
+    View Full PDF
+  </a>
+</div>
 
 ---
 
