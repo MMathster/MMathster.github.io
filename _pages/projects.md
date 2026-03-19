@@ -13,7 +13,7 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 ### Experimental Geometry: Kimberling Triangle Centers
 
-Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
+The notebook covers the research article noted in [Mathematics](/mathematics/) section. Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
 
 - **Notebook (GitHub)**:  
   [![View Notebook](https://img.shields.io/badge/GitHub-Notebook-blue?logo=github)](https://github.com/MMathster/MMathster.github.io/blob/main/assets/experimental_center.ipynb)
@@ -21,29 +21,25 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-- **Loci of Triangle Centers Between $X_1$ and $X_6$**:
-  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" style="text-decoration: none;">
-  <div style="
-    width: 800px;
-    max-width: 100%;
-    height: 200px;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #4CAF50, #2E7D32);
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.5rem;
-    font-family: Arial, sans-serif;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    transition: transform 0.2s, box-shadow 0.2s;
-  "
-  onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.3)'"
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
-  >
-    🚀 Open Interactive GeoGebra Demo
-  </div>
+### Loci of Triangle Center from $X_1$ (Incenter) to $X_6$ (Symmedian Point)
+
+This interactive widget is a demo, showing loci of six triangle centers between $X_1$ and $X_6$.
+
+- <div align="center" style="margin-bottom: 30px;">
+  <p style="font-size: 0.9rem; color: #666;">Prefer a full-screen experience?</p>
+  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-banner">
+    <img src="https://img.shields.io/badge/Open_Full_Screen-GeoGebra-6666FF?style=for-the-badge&logo=geogebra" alt="Full Screen Widget">
   </a>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
+
+<div class="geogebra-container">
+  <iframe 
+    src="https://www.geogebra.org/classic/nknes2ra?embed&showMenuBar=false&showAlgebraInput=false&showResetIcon=true&allowUpscale=true" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
