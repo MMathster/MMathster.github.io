@@ -21,8 +21,6 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-<iframe src="https://www.geogebra.org/classic/nknes2ra?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
 - Explore dynamic loci: see how changing vertex positions affects center locations.  
