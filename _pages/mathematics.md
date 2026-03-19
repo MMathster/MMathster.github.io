@@ -35,6 +35,7 @@ Derivations of triangle center loci and invariant geometric signatures under con
 **Loci of Selected Kimberling Centers for Right Triangles Inscribed in a Fixed Circle**  
 Coordinate parametrization of right triangles inscribed in a unit circle, with explicit derivation
 of loci for shape-variant and shape-invariant centers.  
+
 Coordinates grounded in barycentric and trilinear definitions from Clark Kimberling's
 *Encyclopedia of Triangle Centers*.  
 Notable: X₁₁ (Feuerbach Point) produces a self-intersecting locus under this configuration.
