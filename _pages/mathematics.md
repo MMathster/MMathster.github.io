@@ -22,7 +22,9 @@ $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
 
-[![Download PDF Banner](https://img.shields.io/badge/View_Document-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](./assets/logfrac20260318.pdf)
+<a href="./assets/logfrac20260318.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Project_Specs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white">
+</a>
 
 ---
 
@@ -39,7 +41,9 @@ Coordinates grounded in barycentric and trilinear definitions from Clark Kimberl
 *Encyclopedia of Triangle Centers*.  
 Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
-[![Download PDF Banner](https://img.shields.io/badge/View_Document-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](./assets/etccenter20260308.pdf)
+<a href="./assets/etccenter20260308.pdf" download>
+  <img src="https://img.shields.io/badge/Download-Project_Specs-blue?style=for-the-badge&logo=read-the-docs&logoColor=white">
+</a>
 
 *Interactive companion available in [Projects](/projects/).*
 
