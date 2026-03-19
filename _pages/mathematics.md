@@ -32,18 +32,10 @@ $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
 
-  <a href="/assets/logfrac20260318.pdf" target="_blank" style="
-    display:inline-block;
-    margin-top:15px;
-    padding:14px 28px;
-    background:#2a5298;
-    color:white;
-    border-radius:10px;
-    text-decoration:none;
-    font-weight:bold;
-  ">
-    View Full PDF
-  </a>
+<a href="/assets/logfrac20260318.pdf" target="_blank">
+  <img src="banner-image.png" alt="Download PDF"
+       style="width:100%; max-width:600px; display:block; margin:auto; border-radius:12px;">
+</a>
 
 ---
 
@@ -60,18 +52,10 @@ Coordinates grounded in barycentric and trilinear definitions from Clark Kimberl
 *Encyclopedia of Triangle Centers*.  
 Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
-  <a href="/assets/etccenter20260308.pdf" target="_blank" style="
-    display:inline-block;
-    margin-top:15px;
-    padding:14px 28px;
-    background:#2a5298;
-    color:white;
-    border-radius:10px;
-    text-decoration:none;
-    font-weight:bold;
-  ">
-    View Full PDF
-  </a>
+<a href="/assets/etccenter20260308.pdf" target="_blank">
+  <img src="banner-image.png" alt="Download PDF"
+       style="width:100%; max-width:600px; display:block; margin:auto; border-radius:12px;">
+</a>
 
 *Interactive companion available in [Projects](/projects/).*
 
