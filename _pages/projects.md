@@ -43,7 +43,7 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
   >
     🚀 Open Interactive GeoGebra Demo
   </div>
-</a>
+  </a>
 
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
