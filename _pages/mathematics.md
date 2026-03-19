@@ -10,21 +10,16 @@ Work is organized by research area. PDFs are added progressively as manuscripts 
 
 ---
 
-### Higher Analysis & Special Functions
+### Special Functions
 
-Investigations into the structural generalization of classical integral classes, with emphasis on
-unified functional frameworks and rigorous closed-form analysis.
+**Classes of Logarithmic Fractional Part Function**
+Analyzes properties and extensions of Gamma-type/Uniform-type integral in the form of
 
-**Loci and Structure Under Constrained Configurations** *(in preparation)*  
-Formal treatment of how integer-part and discontinuous structures behave under analytic partitioning.
-Includes treatment of floor functions, fractional-part functions, and nearest-integer functions.
+$$
+\inint\limits_{(0,1)^n} \left(\prod\limits_{i = 1}^n x_i\right)^{\alpha - 1}\left\{\ln\left(\prod\limits_{i = 1}^n x_i\right)\right\}^{\beta} Q\left(\left(\prod\limits_{i = 1}^n x_i\right)\right)\,\mathrm{d}x_1\dots \mathrm{d}x_n
+$$
 
-**Polylogarithmic Integral Evaluation** *(in preparation)*  
-Closed-form analysis of polylogarithmic integral classes beyond standard reference tables.
-
-**Meijer G-Functions and Hypergeometric Identities** *(in preparation)*  
-Development of identities involving ${}_pF_q$ and Meijer G-functions as unifying frameworks
-for diverse analytic results.
+where $\Re(\alpha) > 0$ and $\beta$ is a non-negative integer.
 
 ---
 
@@ -38,7 +33,7 @@ of loci for shape-variant and shape-invariant centers.
 
 Coordinates grounded in barycentric and trilinear definitions from Clark Kimberling's
 *Encyclopedia of Triangle Centers*.  
-Notable: X₁₁ (Feuerbach Point) produces a self-intersecting locus under this configuration.
+Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
 *Interactive companion available in [Projects](/projects/).*
 
