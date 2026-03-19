@@ -63,9 +63,7 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 
 Inspired by my previous dual-role work at AiCure as fulfillment associate and programmer analyst, I displayed interest to extract coordinates and symbolically compute parametric curves for each triangle center $X_n$.
 
-- **ETC Center Table Repository**: <div align="center">
-  <a href="https://github.com/MMathster/ETC-Center-Table">
-    <img src="https://via.placeholder.com/800x200.png?text=Visit+My+Other+Repository" alt="Project Banner" style="width:100%; max-width:800px; border-radius: 10px;">
+- **ETC Center Table Repository**: [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
   </a>
 </div>
 
