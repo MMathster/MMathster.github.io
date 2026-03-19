@@ -15,7 +15,7 @@ and providing visual companions to formal derivations in the [Mathematics](/math
 
 ### Classes of Negative Fractional Part Function
 
-For positive real arguments, the universal definition of a fractional part function $\{x\}$ is $x - \lfloor x\rfloor$. On the other hand, for negative real arguments, there are two different definitions of a fractional part function! Inspired by problems shared by STEM communities in 2026, my work analyzes classes of integrals, involving negative fractional part functions.
+For positive real arguments, the universal definition of a fractional part function $\{x\}$ is $x - \lfloor x\rfloor$. On the other hand, for negative real arguments, there are two different definitions of a fractional part function! Inspired by problems shared on X / Twitter and [MathWorld](https://mathworld.wolfram.com/FractionalPart.html), my work analyzes classes of integrals, involving negative fractional part functions.
 
 - <a href="/assets/etccenter20260308.pdf" download class="download-btn">
   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
