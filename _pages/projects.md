@@ -21,17 +21,30 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-<iframe 
-    src="https://www.geogebra.org/material/iframe/id/nknes2ra/width/800/height/600/border/888888/rc/false/ai/false" 
-    width="800" 
-    height="600" 
-    style="border:0;">
-</iframe>
-
-If the interactive widget does not load, 
-  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank">
-    open it in GeoGebra
-  </a>.
+<a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" style="text-decoration: none;">
+  <div style="
+    width: 800px;
+    max-width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transition: transform 0.2s;
+  "
+  onmouseover="this.style.transform='scale(1.02)'"
+  onmouseout="this.style.transform='scale(1)'"
+  >
+    <img src="YOUR_PREVIEW_IMAGE.png" style="width: 100%; display: block;">
+    <div style="
+      padding: 16px;
+      background: #1e1e1e;
+      color: white;
+      font-size: 1.2rem;
+      font-family: Arial;
+    ">
+      Explore Interactive Visualization →
+    </div>
+  </div>
+</a>
 
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
