@@ -25,7 +25,7 @@ For positive real arguments, a fractional part function $\{x\}$ is defined to be
     <line x1="16" y1="17" x2="8" y2="17"></line>
     <polyline points="10 9 9 9 8 9"></polyline>
   </svg>
-  <span>Download ETC Data PDF</span>
+  <span>Download Logarithm Fractional Part Function Integral PDF</span>
 </a>
 
 ## 🧮 Triangle Centers
