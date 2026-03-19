@@ -13,6 +13,7 @@ Work is organized by research area. PDFs are added progressively as manuscripts 
 ### Special Functions
 
 **Classes of Logarithmic Fractional Part Function**
+
 Analyzes properties and extensions of Gamma-type/Uniform-type integral in the form of
 
 $$
