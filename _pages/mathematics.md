@@ -32,7 +32,7 @@ for diverse analytic results.
 
 Derivations of triangle center loci and invariant geometric signatures under constrained configurations.
 
-**Loci of Selected Kimberling Centers for Right Triangles Inscribed in a Fixed Circle** *(in preparation)*  
+**Loci of Selected Kimberling Centers for Right Triangles Inscribed in a Fixed Circle**  
 Coordinate parametrization of right triangles inscribed in a unit circle, with explicit derivation
 of loci for shape-variant and shape-invariant centers.  
 Coordinates grounded in barycentric and trilinear definitions from Clark Kimberling's
