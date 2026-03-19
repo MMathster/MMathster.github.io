@@ -33,7 +33,7 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
 
 Inspired by my previous dual-role work at AiCure as fulfillment associate and programmer analyst, I displayed interest to extract coordinates and symbolically analyze the locus for each triangle center $X_n$.
 
-- **ETC Center Table Repository (Github)**:
+- **ETC Center Table Repository (Github)**:  
   [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
 
 **Highlights:**
