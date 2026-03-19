@@ -25,24 +25,22 @@ Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interacti
   <div style="
     width: 800px;
     max-width: 100%;
+    height: 200px;
     border-radius: 12px;
-    overflow: hidden;
+    background: linear-gradient(135deg, #4CAF50, #2E7D32);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-family: Arial, sans-serif;
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    transition: transform 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s;
   "
-  onmouseover="this.style.transform='scale(1.02)'"
-  onmouseout="this.style.transform='scale(1)'"
+  onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.3)'"
+  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
   >
-    <img src="YOUR_PREVIEW_IMAGE.png" style="width: 100%; display: block;">
-    <div style="
-      padding: 16px;
-      background: #1e1e1e;
-      color: white;
-      font-size: 1.2rem;
-      font-family: Arial;
-    ">
-      Explore Interactive Visualization →
-    </div>
+    🚀 Open Interactive GeoGebra Demo
   </div>
 </a>
 
