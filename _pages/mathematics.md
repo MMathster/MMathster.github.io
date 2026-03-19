@@ -22,7 +22,7 @@ Work is organized by research area. PDFs are added progressively as manuscripts 
 
 ## 📊 Special Functions
 
-**Classes of Logarithmic Fractional Part Function** (2026)
+### Classes of Logarithmic Fractional Part Function (2026)
 
 Analyzes properties and extensions of Gamma-type/Uniform-type integral in the form of
 
@@ -32,7 +32,7 @@ $$
 
 where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an admissible factor.
 
-  <a href="logfrac20260318.pdf" target="_blank" style="
+  <a href="./assets/logfrac20260318.pdf" target="_blank" style="
     display:inline-block;
     margin-top:15px;
     padding:14px 28px;
@@ -51,7 +51,7 @@ where $\Re(\alpha) > 0$, $\beta$ is a non-negative integer, and $Q(x)$ is an adm
 
 Derivations of triangle center loci and invariant geometric signatures under constrained configurations.
 
-**Loci of Selected Kimberling Centers for Right Triangles Inscribed in a Fixed Circle** (2026)
+### Loci of Selected Kimberling Centers for Right Triangles Inscribed in a Fixed Circle (2026)
 
 Coordinate parametrization of right triangles inscribed in a unit circle, with explicit derivation
 of loci for shape-variant and shape-invariant centers.  
@@ -60,7 +60,7 @@ Coordinates grounded in barycentric and trilinear definitions from Clark Kimberl
 *Encyclopedia of Triangle Centers*.  
 Notable: $X_{11}$ (Feuerbach Point) produces a self-intersecting locus under this configuration.
 
-  <a href="etccenter20260308.pdf" target="_blank" style="
+  <a href="./assets/etccenter20260308.pdf" target="_blank" style="
     display:inline-block;
     margin-top:15px;
     padding:14px 28px;
