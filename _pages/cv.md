@@ -88,7 +88,7 @@ Confluence and Jupyter environments.
 
 **Data and analysis** — R, Excel, statistical modeling, data validation
 
-**Mathematical** — Real and complex analysis, geometry, special functions, statistics
+**Mathematical** — Real and complex analysis, geometry, special functions, probability theory
 
 <hr>
 
