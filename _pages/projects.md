@@ -66,9 +66,15 @@ In the Thales configuration, where a unit circle $x^2 + y^2 = 1$ inscribes a rig
   </iframe>
 </div>
 
-### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+**Highlights:**
+- Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
+- Explore dynamic loci: see how changing vertex positions affects center locations.  
+- Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
+- Fully reproducible — all code and dependencies are included in the repository.
 
-Inspired by former STEM communities, I would like to share a triangle center of interest, the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
+#### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+
+I would like to share a triangle center of interest, the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
 
 $$
 1 - \cos\left(\beta - \gamma\right) : 1 - \cos\left(\gamma - \alpha\right) : 1 - \cos\left(\alpha - \eta\right)
@@ -96,13 +102,7 @@ $$
   </iframe>
 </div>
 
-**Highlights:**
-- Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
-- Explore dynamic loci: see how changing vertex positions affects center locations.  
-- Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
-- Fully reproducible — all code and dependencies are included in the repository.
-
-### Kimberling Triangle Center Loci Compilation (In Progress)
+#### Kimberling Triangle Center Loci Compilation (In Progress)
 
 Inspired by my previous dual-role work at AiCure as fulfillment associate and programmer analyst, I displayed interest to extract coordinates and symbolically analyze the locus for each triangle center $X_n$.
 
