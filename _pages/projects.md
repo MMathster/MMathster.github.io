@@ -50,20 +50,28 @@ This interactive Geogebra widget is a demo that supports the notebook widget for
 
 In the Thales configuration, where a unit circle $x^2 + y^2 = 1$ inscribes a right triangle $\triangle ABC$ with fixed coordinates $A = (1,0)$ and $B = (-1,0)$, each of these triangle centers 
 
-<div align="center" style="margin-bottom: 30px;">
-  <p style="font-size: 0.9rem; color: #666;">Prefer a full-screen experience?</p>
-  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-banner">
-    <img src="https://img.shields.io/badge/Open_Full_Screen-GeoGebra-6666FF?style=for-the-badge&logo=geogebra" alt="Full Screen Widget">
+<div align="center">
+  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 40px 0;">
-
-<div class="geogebra-container">
+<div class="geogebra-wrapper" style="margin-top: 15px;">
   <iframe 
-    src="https://www.geogebra.org/classic/nknes2ra?embed&showMenuBar=false&showAlgebraInput=false&showResetIcon=true&allowUpscale=true" 
+    src="https://www.geogebra.org/classic/nknes2ra?embed&showMenuBar=false&showToolBar=false&showAlgebraInput=false&allowUpscale=true" 
     allowfullscreen>
   </iframe>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
+    <div style="display: flex; align-items: center; gap: 10px; padding: 5px 15px;">
+      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6666FF?style=for-the-badge&logo=rocket&logoColor=black" alt="New Version Badge">
+      <span style="font-family: sans-serif; font-weight: bold; color: #FFD700; text-transform: uppercase; letter-spacing: 1px;">
+        Explore Interactive v2
+      </span>
+    </div>
+  </a>
 </div>
 
 **Highlights:**
