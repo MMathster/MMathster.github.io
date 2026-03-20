@@ -1,11 +1,13 @@
-<script>
-document.addEventListener("scroll", function () {
-  const toc = document.querySelector(".toc-container");
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.0/tocbot.min.js"></script>
 
-  if (window.scrollY > 200) {
-    toc.classList.add("visible");
-  } else {
-    toc.classList.remove("visible");
-  }
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  tocbot.init({
+    tocSelector: '.toc-container',
+    contentSelector: 'main',   // <-- FIX THIS
+    headingSelector: 'h1, h2, h3',
+    hasInnerContainers: true,
+    scrollSmooth: true
+  });
 });
 </script>
