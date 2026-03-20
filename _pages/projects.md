@@ -50,7 +50,7 @@ Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locu
 
 See below for interactive widgets that support notebooks attached:
 
-- **Geogebra Interaction**:
+- **Geogebra**:  
   <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
