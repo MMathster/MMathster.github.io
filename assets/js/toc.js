@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const sections = document.querySelectorAll("h2, h3");
-  const tocLinks = document.querySelectorAll(".toc a");
+  const tocLinks = document.querySelectorAll(".floating-toc a");
 
   if (!sections.length || !tocLinks.length) return;
 
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (isMatch) activeLink = link;
           });
 
-          if (activeLink) {
+          if (activeLink && !activeLink.classList.contains("clicked")) {
             activeLink.scrollIntoView({
               behavior: "smooth",
               block: "center"
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     },
     {
-      rootMargin: "-40% 0px -55% 0px",
+      rootMargin: "-50% 0px -50% 0px",
       threshold: 0
     }
   );
