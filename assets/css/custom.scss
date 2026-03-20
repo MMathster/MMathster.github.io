@@ -133,3 +133,26 @@ $glow-spread: 20px;
     box-shadow: 0 0 20px rgba(102, 102, 255, 0.7);
   }
 }
+
+.geogebra-wrapper {
+  width: 100%;
+  max-width: 100%; /* Ensures it stays inside your page margins */
+  margin: 20px 0;
+  
+  /* The Aspect Ratio Trick */
+  position: relative;
+  padding-bottom: 65%; /* Adjust this % if the bottom is still cut off */
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  background: #f9f9f9;
+}
+
+.geogebra-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
