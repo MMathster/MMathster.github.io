@@ -89,6 +89,8 @@ $new-version-color: #FFD700; // Gold/Yellow
 .floating-toc a {
   opacity: 0.6;
   transition: all 0.2s ease;
+  position: sticky;
+  top: 20px;
 }
 
 .floating-toc a:hover,
@@ -103,6 +105,27 @@ $new-version-color: #FFD700; // Gold/Yellow
 h1, h2, h3, h4 {
   color: #ffffff;
   font-weight: 600;
+}
+
+.page-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Sidebar (TOC) */
+.sidebar {
+  width: 250px;
+  position: sticky;
+  top: 20px;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding-right: 20px;
+}
+
+/* Main content */
+.content {
+  flex: 1;
+  min-width: 0;
 }
 
 // Links
