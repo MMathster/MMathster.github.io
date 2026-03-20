@@ -107,7 +107,7 @@ View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 
 
 ### Kimberling Triangle Center Loci Compilation (In Progress)
 
-Inspired by my previous dual-role work at AiCure, I displayed interest to extract coordinates and symbolically analyze the locus for each triangle center $X_n$. The half-angle substitution, also known as the Weierstrass substitution, is $t = \tan\left\frac{\theta}{2}$, where
+Inspired by my previous dual-role work at AiCure, I displayed interest to extract coordinates and symbolically analyze the locus for each triangle center $X_n$. The half-angle substitution, also known as the Weierstrass substitution, is $t = \tan\frac{\theta}{2}$, where
 
 $$
 \left( \cos\theta, \sin\theta \right) \mapsto \left( \dfrac{1 - t^2}{1 + t^2}, \dfrac{2t}{1 + t^2} \right)
