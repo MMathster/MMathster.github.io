@@ -39,7 +39,7 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-This interactive Geogebra widget is a demo that supports the notebook widget for combined loci of triangle centers between $X_1$ and $X_6$, where:
+Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus, where
 
 - $X_1$ is the incenter $I$;
 - $X_2$ is the centroid G$;
@@ -48,20 +48,12 @@ This interactive Geogebra widget is a demo that supports the notebook widget for
 - $X_5$ is the nine-point center $N$;
 - $X_6$ is the symmedian point $K$;
 
-In the Thales configuration, where a unit circle $x^2 + y^2 = 1$ inscribes a right triangle $\triangle ABC$ with fixed coordinates $A = (1,0)$ and $B = (-1,0)$, each of these triangle centers 
+See below for interactive widgets that support notebooks attached:
 
-<div class="geogebra-wrapper" style="margin-top: 15px;">
-  <iframe 
-    src="https://www.geogebra.org/classic/nknes2ra?embed&showMenuBar=false&showToolBar=false&showAlgebraInput=false&allowUpscale=true" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div align="center">
+- **Geogebra Interaction**:
   <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
-</div>
 
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
@@ -83,18 +75,18 @@ $$
 (x^2 + y^2)^3 - (1 + 2y)(x^2 + y^2)^2 + 2y(x^2 + y^2) + y^2 = 0
 $$
 
-<div class="geogebra-wrapper" style="margin-top: 15px;">
-  <iframe 
-    src="https://www.geogebra.org/classic/uhu2ap6q?embed&showMenuBar=false&showToolBar=false&showAlgebraInput=false&allowUpscale=true" 
-    allowfullscreen>
-  </iframe>
-</div>
+With $t = \tan\frac{\theta}{4}$, where $t \in [0, \pi)$, we have
 
-<div align="center">
+$$
+  X_11(t) = \left( \dfrac{1 - 4t + 3t^2 + 8t^3 - 13t^4 - 4t^5 + t^6}{(1 + t^2)^2(1 - 4t + 5t^2)}, \dfrac{2t(1 - t)(1 - 2t - t^2)^2}{(1 + t^2)^2(1 - 4t + 5t^2)} \right)
+$$
+
+View widgets below to see how $X_11$ interacts with the extended angle $\theta$:
+
+- **Geogebra**:  
   <a href="https://www.geogebra.org/classic/uhu2ap6q" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
-</div>
 
 ### Kimberling Triangle Center Loci Compilation (In Progress)
 
