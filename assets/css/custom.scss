@@ -156,3 +156,33 @@ $glow-spread: 20px;
   width: 100% !important;
   height: 100% !important;
 }
+
+// Intense Glow for New Version
+$new-version-color: #FFD700; // Gold/Yellow
+
+.glow-new-version {
+  display: inline-block;
+  padding: 4px;
+  border-radius: 12px;
+  transition: all 0.4s ease;
+  background: rgba(255, 215, 0, 0.1); // Soft gold background
+  border: 1px dashed rgba(255, 215, 0, 0.5);
+
+  &:hover {
+    transform: translateY(-3px) scale(1.05);
+    background: rgba(255, 215, 0, 0.2);
+    box-shadow: 0 0 15px $new-version-color, 0 0 30px rgba(255, 215, 0, 0.4);
+    border: 1px solid $new-version-color;
+  }
+}
+
+// Optional "New" badge animation
+.badge-pulse {
+  animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
