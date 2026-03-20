@@ -1,3 +1,33 @@
+.toc-container {
+  /* Initial state: hidden or transparent */
+  opacity: 0;
+  visibility: hidden;
+  transition: visibility 0s linear 0.5s, opacity 0.5s;
+  /* Position the TOC, e.g., fixed on the side */
+  position: fixed;
+  right: 20px;
+  top: 100px;
+}
+
+.toc-container:hover {
+  /* Hover state: visible and opaque */
+  opacity: 1;
+  visibility: visible;
+  transition: all 0.5s;
+}
+
+/* Add a trigger element, e.g., a small button or icon */
+.toc-trigger {
+    /* styles for your trigger */
+}
+
+.toc-trigger:hover + .toc-container {
+    /* this would require adjacent sibling selector, might not work if not next to it */
+    opacity: 1;
+    visibility: visible;
+}
+
+
 // Typography contrast
 body {
   background-color: #0e1117;
