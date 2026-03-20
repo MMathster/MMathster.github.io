@@ -118,10 +118,14 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
 - For angle powers of $2$'s only, $p = 2^{\mathrm{max} + 1}$, where $\max$ checks denominators. For instance, for expressions, like $\tan\frac{\theta}{4}\cos\frac{\theta}{2}$, we set $t = \tan\frac{\theta}{4 \cdot 2} = \tan\frac{\theta}{8}$.
 - Otherwise, for angle powers of different prime factors, $p$ takes the least common demoninator of angle denominators. For instance, for expressions, like $\tan\frac{\theta}{3}\cos\frac{\theta}{2}$, we set $t = \tan\frac{\theta}{6}$.
 
-The objective is to extract barycentric coordinates and determine the parametrized curve for each of the triangle centers $X_n$, using the above idea.
+The objective is to extract barycentric coordinates and determine the parametrized curve for each of the triangle centers $X_n$, using the above idea. The following is the list of files generated to analyze the locus:
 
 - **ETC Center Table Repository (Github)**:  
   [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
+- **JupyterLab (Binder):**
+  [![View Notebook](https://img.shields.io/badge/GitHub-Notebook-blue?logo=github)](https://mybinder.org/v2/gh/MMathster/ETC-Center-Table/HEAD?labpath=ETC_Center_Table_Thales.ipynb)
+- **Classic Notebook (Binder):**
+  [![View Notebook](https://img.shields.io/badge/GitHub-Notebook-blue?logo=github)](https://mybinder.org/v2/gh/MMathster/ETC-Center-Table/HEAD?filepath=ETC_Center_Table_Thales.ipynb)
 
 **Highlights:**
 - Extract barycentric coordinates from 36 pages of Evansville's *Encyclopedia of Triangle Center* site.
