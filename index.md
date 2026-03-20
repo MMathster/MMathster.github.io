@@ -2,6 +2,8 @@
 layout: single
 title: ""
 author_profile: false
+toc: true
+toc_sticky: true
 ---
 
 # Michael Huang
