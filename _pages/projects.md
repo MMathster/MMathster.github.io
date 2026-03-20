@@ -81,7 +81,7 @@ $$
   X_11(t) = \left( \dfrac{1 - 4t + 3t^2 + 8t^3 - 13t^4 - 4t^5 + t^6}{(1 + t^2)^2(1 - 4t + 5t^2)}, \dfrac{2t(1 - t)(1 - 2t - t^2)^2}{(1 + t^2)^2(1 - 4t + 5t^2)} \right)
 $$
 
-View widgets below to see how $X_11$ interacts with the extended angle $\theta$:
+View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 2\pi)$:
 
 - **Geogebra**:  
   <a href="https://www.geogebra.org/classic/uhu2ap6q" target="_blank" class="glow-new-version">
