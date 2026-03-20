@@ -1,22 +1,102 @@
-.toc a {
+---
+# This empty front matter tells Jekyll to process this file
+---
+
+// Variables make it easier to change colors later!
+$glow-color: rgba(0, 123, 255, 0.6);
+$glow-spread: 20px;
+
+.pulse {
+  animation: shadow-pulse 2s infinite;
+}
+
+/* Responsive Container to prevent truncation */
+.geogebra-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio - adjust if your widget is taller */
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.geogebra-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* The Glow Banner from before */
+.glow-banner {
+  display: inline-block;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+  &:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 20px rgba(102, 102, 255, 0.7);
+  }
+}
+
+.geogebra-wrapper {
+  width: 100%;
+  max-width: 100%; /* Ensures it stays inside your page margins */
+  margin: 20px 0;
+  
+  /* The Aspect Ratio Trick */
+  position: relative;
+  padding-bottom: 65%; /* Adjust this % if the bottom is still cut off */
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  background: #f9f9f9;
+}
+
+// Intense Glow for New Version
+$new-version-color: #FFD700; // Gold/Yellow
+
+.glow-new-version {
+  display: inline-block;
+  padding: 4px;
+  border-radius: 12px;
+  transition: all 0.4s ease;
+  background: rgba(255, 215, 0, 0.1); // Soft gold background
+  border: 1px dashed rgba(255, 215, 0, 0.5);
+
+  &:hover {
+    transform: translateY(-3px) scale(1.05);
+    background: rgba(255, 215, 0, 0.2);
+    box-shadow: 0 0 15px $new-version-color, 0 0 30px rgba(255, 215, 0, 0.4);
+    border: 1px solid $new-version-color;
+  }
+}
+
+// Optional "New" badge animation
+.badge-pulse {
+  animation: pulse-red 2s infinite;
+}
+
+@keyframes pulse-red {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+
+.floating-toc a {
   opacity: 0.6;
   transition: all 0.2s ease;
 }
 
-.toc a:hover,
-.toc a.active,
-.toc a.clicked {
+.floating-toc a:hover,
+.floating-toc a.active,
+.floating-toc a.clicked {
   opacity: 1;
   color: var(--accent);
   transform: translateX(4px);
-}
-
-// Typography contrast
-body {
-  background-color: #0e1117;
-  color: #e6edf3;
-  font-size: 17px;
-  line-height: 1.7;
 }
 
 // Headings
@@ -32,6 +112,10 @@ a {
 a:hover {
   color: #79c0ff;
   text-decoration: underline;
+}
+
+:root {
+  --accent: #58a6ff;
 }
 
 // Navigation bar size
@@ -83,119 +167,4 @@ pre, code {
 .download-btn:active {
   background-color: #298e46;
   box-shadow: inset 0 0.15em 0.3em rgba(27, 31, 35, 0.15);
-}
-
----
-# This empty front matter tells Jekyll to process this file
----
-
-// Variables make it easier to change colors later!
-$glow-color: rgba(0, 123, 255, 0.6);
-$glow-spread: 20px;
-
-.glow-banner {
-  display: inline-block;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 10px;
-  overflow: hidden;
-
-  &:hover {
-    transform: scale(1.02);
-    box-shadow: 0 0 $glow-spread $glow-color, 0 0 ($glow-spread * 2) rgba(0, 123, 255, 0.4);
-    cursor: pointer;
-  }
-}
-
-.pulse {
-  animation: shadow-pulse 2s infinite;
-}
-
-@keyframes shadow-pulse {
-  0% { box-shadow: 0 0 0 0px rgba(0, 123, 255, 0.2); }
-  70% { box-shadow: 0 0 0 15px rgba(0, 123, 255, 0); }
-  100% { box-shadow: 0 0 0 0px rgba(0, 123, 255, 0); }
-}
-
-/* Responsive Container to prevent truncation */
-.geogebra-container {
-  position: relative;
-  width: 100%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio - adjust if your widget is taller */
-  overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  margin-bottom: 20px;
-}
-
-.geogebra-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-
-/* The Glow Banner from before */
-.glow-banner {
-  display: inline-block;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 8px;
-  &:hover {
-    transform: scale(1.03);
-    box-shadow: 0 0 20px rgba(102, 102, 255, 0.7);
-  }
-}
-
-.geogebra-wrapper {
-  width: 100%;
-  max-width: 100%; /* Ensures it stays inside your page margins */
-  margin: 20px 0;
-  
-  /* The Aspect Ratio Trick */
-  position: relative;
-  padding-bottom: 65%; /* Adjust this % if the bottom is still cut off */
-  height: 0;
-  overflow: hidden;
-  border-radius: 8px;
-  border: 1px solid #eee;
-  background: #f9f9f9;
-}
-
-.geogebra-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100% !important;
-  height: 100% !important;
-}
-
-// Intense Glow for New Version
-$new-version-color: #FFD700; // Gold/Yellow
-
-.glow-new-version {
-  display: inline-block;
-  padding: 4px;
-  border-radius: 12px;
-  transition: all 0.4s ease;
-  background: rgba(255, 215, 0, 0.1); // Soft gold background
-  border: 1px dashed rgba(255, 215, 0, 0.5);
-
-  &:hover {
-    transform: translateY(-3px) scale(1.05);
-    background: rgba(255, 215, 0, 0.2);
-    box-shadow: 0 0 15px $new-version-color, 0 0 30px rgba(255, 215, 0, 0.4);
-    border: 1px solid $new-version-color;
-  }
-}
-
-// Optional "New" badge animation
-.badge-pulse {
-  animation: pulse-red 2s infinite;
-}
-
-@keyframes pulse-red {
-  0% { opacity: 1; }
-  50% { opacity: 0.6; }
-  100% { opacity: 1; }
 }
