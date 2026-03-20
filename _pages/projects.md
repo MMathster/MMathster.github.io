@@ -3,15 +3,15 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Projects
+# Projects
 
 This page collects interactive constructions, dynamic visualizations, and exploratory computational models. Projects serve as mathematical laboratories — supporting intuition, testing structural conjectures, and providing visual companions to formal derivations in the [Mathematics](/mathematics/) section.
 
 ---
 
-## 🧮 Triangle Centers
+# 🧮 Triangle Centers
 
-### Loci of Triangle Centers in Thales Configuration (In Progress)
+## Loci of Triangle Centers in Thales Configuration (In Progress)
 
 Inspired by the former STEM community in the year 2021, I worked on discovering loci of triangle centers curated from Clark Kimberling's *Encyclopedia of Triangle Centers*. For this section, suppose that a unit circle inscribes a triangle $\triangle ABC$, where points $A = (1,0)$ and $B = (-1,0)$ are fixed. As point $C$ varies, where $\theta \in [0,2\pi)$ the triangle center $X_n$ generates a locus. By considering $C = \left(\cos\theta, \sin\theta\right)$, where $\theta \in [0, \pi)$, the side lengths are
 
@@ -29,7 +29,7 @@ In classical geometry, we learn that the altitudes of a triangle concur at a sin
 
 How do these points move? What curves do they trace as the right triangle $\triangle ABC$ itself deforms? This collection of geometry projects isn't just a collection of proofs—it is a computational laboratory designed to uncover the hidden logic of the plane.
 
-#### Experimental Geometry: Kimberling Triangle Centers
+### Experimental Geometry: Kimberling Triangle Centers
 
 The notebook covers the research article noted in [Mathematics](/mathematics/) section. Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
 
@@ -69,7 +69,7 @@ In the Thales configuration, where a unit circle $x^2 + y^2 = 1$ inscribes a rig
 - Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
 - Fully reproducible — all code and dependencies are included in the repository.
 
-#### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
 
 I would like to share a triangle center of interest, the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
 
@@ -96,7 +96,7 @@ $$
   </a>
 </div>
 
-#### Kimberling Triangle Center Loci Compilation (In Progress)
+### Kimberling Triangle Center Loci Compilation (In Progress)
 
 Inspired by my previous dual-role work at AiCure as fulfillment associate and programmer analyst, I displayed interest to extract coordinates and symbolically analyze the locus for each triangle center $X_n$.
 
