@@ -52,7 +52,7 @@ See below for interactive widgets that support notebooks attached:
 
 - **Geogebra**:  
   <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
-     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
+     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
 
 **Highlights:**
@@ -61,9 +61,26 @@ See below for interactive widgets that support notebooks attached:
 - Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
 - Fully reproducible — all code and dependencies are included in the repository.
 
+### Loci of Incenter $X_1$, Centroid $X_2$ and Gergonne Point $X_8$
+
+This interactive snippet supports the example at the end of my research article. The barycentric coordinates for each of three centers are:
+
+- **Incenter $X_1$**: $(1 : 1 : 1)$
+- **Centroid $X_2$**: $(a : b : c)$
+- **Gergonne Point $X_8$**: $\left(\frac{b + c - a}{a} : \frac{a + c - b}{b} : \frac{a + b - c}{c}\right)$
+
+Known for lying on the Nagel line, these points are governed by these properties $X_8 + 2X_1 = 3X_2$ and $\left| \overline{X_2 X_8} \right| = 2 \left| \overline{X_2 X_1} \right|$. While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates clockwise!
+
+Check out the widget to visualize how point $X_8$ interacts with points $X_1$ and $X_2$.
+
+- **Geogebra**:  
+  <a href="https://www.geogebra.org/classic/jqnrskqw" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
+  </a>
+
 ### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
 
-I would like to share a triangle center of interest, the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
+Another special mention of mine is the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
 
 $$
 1 - \cos\left(\beta - \gamma\right) : 1 - \cos\left(\gamma - \alpha\right) : 1 - \cos\left(\alpha - \eta\right)
@@ -85,7 +102,7 @@ View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 
 
 - **Geogebra**:  
   <a href="https://www.geogebra.org/classic/uhu2ap6q" target="_blank" class="glow-new-version">
-     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-FFD700?style=for-the-badge&logo=geogebra&logoColor=black">
+     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
 
 ### Kimberling Triangle Center Loci Compilation (In Progress)
