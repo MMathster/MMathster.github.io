@@ -118,12 +118,15 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
 - For angle powers of $2$'s only, $p = 2^{\mathrm{max} + 1}$, where $\max$ checks denominators. For instance, for expressions, like $\tan\frac{\theta}{4}\cos\frac{\theta}{2}$, we set $t = \tan\frac{\theta}{4 \cdot 2} = \tan\frac{\theta}{8}$.
 - Otherwise, for angle powers of different prime factors, $p$ takes the least common demoninator of angle denominators. For instance, for expressions, like $\tan\frac{\theta}{3}\cos\frac{\theta}{2}$, we set $t = \tan\frac{\theta}{6}$.
 
+The objective is to extract barycentric coordinates and determine the parametrized curve for each of the triangle centers $X_n$, using the above idea.
+
 - **ETC Center Table Repository (Github)**:  
   [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
 
 **Highlights:**
 - Extract barycentric coordinates from 36 pages of Evansville's *Encyclopedia of Triangle Center* site.
-- Using the discoveries from the formal derivation, convert barycentric coordinates into parametric curves in the form of $(x(t),y(t))$, where $t = \tan\left(\frac{\theta}{p}\right)$ is the Weierstrass tangent substitution with $p$ denoted as the shallowest denominator angle.
+- Using the discoveries from the formal derivation, convert barycentric coordinates into parametric curves in the form of $(x(t),y(t))$, where $t = \tan\left(\frac{\theta}{p}\right)$ is the Weierstrass tangent substitution.
+- Includes Jupyter notebooks, Python pipeline and JSON pipeline to better optimize the solver.
 
 *Formal derivation in progress: see [Mathematics](/mathematics/).*
 
