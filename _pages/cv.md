@@ -24,7 +24,7 @@ Bachelor of Arts in Pure Mathematics, 2014
 
 ### Independent STEM Learning Content Developer
 
-*2017 – Present*
+*March 2017 – Present*
 
 My independent work began with geometric problem construction and has evolved
 into formal analytic investigation. The through-line is consistent: identifying
