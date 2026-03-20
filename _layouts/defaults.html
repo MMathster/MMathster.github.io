@@ -1,14 +1,11 @@
-<!-- TOCBot -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.12.0/tocbot.min.js"></script>
-
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  tocbot.init({
-    tocSelector: '.toc-container',
-    contentSelector: '.post-content',
-    headingSelector: 'h1, h2, h3',
-    hasInnerContainers: true,
-    collapseDepth: 6
-  });
+document.addEventListener("scroll", function () {
+  const toc = document.querySelector(".toc-container");
+
+  if (window.scrollY > 200) {
+    toc.classList.add("visible");
+  } else {
+    toc.classList.remove("visible");
+  }
 });
 </script>
