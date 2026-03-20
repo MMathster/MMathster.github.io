@@ -42,7 +42,7 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus, where
 
 - $X_1$ is the incenter $I$;
-- $X_2$ is the centroid G$;
+- $X_2$ is the centroid $G$;
 - $X_3$ is the circumcenter;
 - $X_4$ is the orthocenter $H$;
 - $X_5$ is the nine-point center $N$;
