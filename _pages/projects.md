@@ -63,17 +63,6 @@ In the Thales configuration, where a unit circle $x^2 + y^2 = 1$ inscribes a rig
   </iframe>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://www.geogebra.org/classic/nknes2ra" target="_blank" class="glow-new-version">
-    <div style="display: flex; align-items: center; gap: 10px; padding: 5px 15px;">
-      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6666FF?style=for-the-badge&logo=rocket&logoColor=black" alt="New Version Badge">
-      <span style="font-family: sans-serif; font-weight: bold; color: #FFD700; text-transform: uppercase; letter-spacing: 1px;">
-        Explore Interactive v2
-      </span>
-    </div>
-  </a>
-</div>
-
 **Highlights:**
 - Compute and visualize multiple triangle centers including centroid ($X_1$), incenter ($X_2$), circumcenter ($X_3$), and more.  
 - Explore dynamic loci: see how changing vertex positions affects center locations.  
