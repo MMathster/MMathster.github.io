@@ -85,7 +85,7 @@ This interactive snippet supports the example at the end of my research article.
 Known for lying on the Nagel line, these points are governed by these properties:
 
 - $X_8 + 2X_1 = 3X_2$,
-- And $\left| \overline{X_2 X_8} \right| = 2 \left| \overline{X_2 X_1} \right|$
+- And $\left|\overline{X_2 X_8}\right| = 2 \left|\overline{X_2 X_1}\right|$
 
 While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates clockwise! Check out the widget to visualize how these three special points interact with the parameter $\theta$.
 
