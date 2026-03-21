@@ -152,10 +152,10 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
 <div align="center">
 
 |**Cosine**|**$t$-Equation**|**Sine**|**$t$-Equation**|**Tangent**|**$t$-Equation**|
-|:---|:---:|:---|:---:|:---|:---:|
-|$\cos\dfrac{\theta}{2^{n - 1}}$|$\dfrac{1 - t^2}{1 + t^2}$|$\sin\dfrac{\theta}{2^{n - 1}}$|$\dfrac{2t}{1 + t^2}$|$\tan\dfrac{\theta}{2^{n - 1}}$|$\dfrac{2t}{1 - t^2}$|
-|$\cos\dfrac{\theta}{2^{n - 2}}$|$\dfrac{1 - 6t^2 + t^4}{\left(1 + t^2\right)^2}$|$\sin\dfrac{\theta}{2^{n - 2}}$|$\dfrac{4t(1 - t^2)}{(1 + t^2)^2}$|$\tan\dfrac{\theta}{2^{n - 2}}$|$\dfrac{4t(1 - t^2)}{1 - 6t^2 + t^4}$|
-|$\cos\dfrac{\theta}{2^{n - k}}$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty} \left((-1)^{j}\dbinom{2^k}{2j}t^{2j}\right)$|$\sin\dfrac{\theta}{2^{n - k}}$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty}\left( (-1)^{j}\dbinom{2^k}{2j + 1}t^{2j + 1}\right)$|$\tan\dfrac{\theta}{2^{n - k}}$|$\dfrac{\sin\frac{\theta}{2^{n - k}}}{\cos\frac{\theta}{2^{n - k}}}$|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|$\cos\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{1 - t^2}{1 + t^2}$|$\sin\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{2t}{1 + t^2}$|$\tan\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{2t}{1 - t^2}$|
+|$\cos\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{1 - 6t^2 + t^4}{\left(1 + t^2\right)^2}$|$\sin\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{4t(1 - t^2)}{(1 + t^2)^2}$|$\tan\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{4t(1 - t^2)}{1 - 6t^2 + t^4}$|
+|$\cos\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty} \left((-1)^{j}\dbinom{2^k}{2j}t^{2j}\right)$|$\sin\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty}\left( (-1)^{j}\dbinom{2^k}{2j + 1}t^{2j + 1}\right)$|$\tan\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{\sin\frac{\theta}{2^{n - k}}}{\cos\frac{\theta}{2^{n - k}}}$|
 </div>
 
 where $k$ is an integer. Above derivations follow that cosines and sines are related to the complex exponentials:
