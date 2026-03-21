@@ -161,7 +161,7 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
 where $k$ is an integer. Above derivations follow that cosines and sines are related to the complex exponentials:
 
 $$
-\cos\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\operatorname{Re}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}, \qquad \sin\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\operatorname{Im}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}
+\cos\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\mathrm{Re}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}, \qquad \sin\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\mathrm{Im}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}
 $$
 
 Since triangle side lengths are of the form $\sin\frac{\theta}{2}$ and $\cos\frac{\theta}{2}$, we can apply that idea for greater powers of $2$'s i.e. $\sin\frac{\theta}{4}$ and $\cos\frac{\theta}{8}$. For instance, if the "deepest" angle factor detected in the expression $\sin\frac{\theta}{2}\cos\frac{\theta}{4}$ is $4$, then the substitution $t = \tan\frac{\theta}{4 \cdot 2} = \tan\frac{\theta}{8}$. The pipeline dynamically chooses the minimal $n$ (the "Weierstrass Depth") required to clear all half-angle or quarter-angle identities found in the ETC source.
