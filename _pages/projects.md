@@ -17,8 +17,8 @@ Inspired by the former STEM community in the year 2021, I worked on discovering 
 
 $$
 \begin{array}{rl}
-a =& \left|\overline{BC}\right| = 2\cos\frac{\theta}{2}\\
-b =& \left|\overline{AC}\right| = 2\sin\frac{\theta}{2}\\
+a =& \left|\overline{BC}\right| = 2\cos\dfrac{\theta}{2}\\
+b =& \left|\overline{AC}\right| = 2\sin\dfrac{\theta}{2}\\
 c =& \left|\overline{AB}\right| = 2
 \end{array}
 $$
