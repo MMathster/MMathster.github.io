@@ -63,6 +63,11 @@ See below for interactive widgets that support notebooks attached:
 
 ### Loci of Incenter $X_1$, Centroid $X_2$ and Gergonne Point $X_8$
 
+<figure>
+  <img src="./assets/images/x8_locus.gif" alt="Three cycling points">
+  <figcaption>As point $C$ varies along the circumference, with points $A = (1,0)$ and $B = (-1,0)$ fixed, points $X_1$, $X_2$ and $X_8$ rotate simultaneously, but at different directions.</figcaption>
+</figure>
+
 This interactive snippet supports the example at the end of my research article. The barycentric coordinates for each of three centers are:
 
 - **Incenter $X_1$**: $(1 : 1 : 1)$
@@ -79,6 +84,11 @@ Check out the widget to visualize how these three special points interact with t
   </a>
 
 ### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+
+<figure>
+  <img src="./assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus">
+  <figcaption>The bow-tie shaped locus of the Feuerbach point $X_{11}$.</figcaption>
+</figure>
 
 Another special mention of mine is the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
 
