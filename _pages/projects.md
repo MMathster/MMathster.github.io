@@ -86,15 +86,15 @@ This interactive snippet supports the example at the end of my research article,
 
 <div align="center">
   
-|**ETC Reference**|**Name**|**Trilinear Coordinates**|
-|:---|:---|:---:|
-|$X_1$|Incenter|$1 : 1 : 1$|
-|$X_2$|Centroid|$bc : ac : ab$|
-|$X_8$|Nagel point|$\dfrac{b + c - a}{a} : \dfrac{a + c - b}{b} : \dfrac{a + b - c}{c}$|
+|**ETC Reference**|**Name**|**Trilinear Coordinates**|**Barycentric Coordinates**|
+|:---|:---|:---:|:---:|
+|$X_1$|Incenter|$1 : 1 : 1$|$a : b : c$|
+|$X_2$|Centroid|$bc : ac : ab$|$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$|
+|$X_8$|Nagel point|$\dfrac{b + c - a}{a} : \dfrac{a + c - b}{b} : \dfrac{a + b - c}{c}$|$s - a : s - b : s - c$|
 
 </div>
 
-Known for lying on the Nagel line, these points are governed by the following property:
+where $s = \frac{1}{2}(a + b + c)$ denotes the semiperimeter. Known for lying on the Nagel line, these points are governed by the following property:
 
 $$
 X_8 + 2X_1 = 3X_2
