@@ -50,6 +50,7 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus as tabulated below:
 
 <div align="center">
+  
 |**ETC Reference**|**Name**|**Trilinear Coordinates**|
 |:---|:---|:---:|
 |$X_1$|Incenter|$1 : 1 : 1$|
@@ -58,6 +59,7 @@ Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locu
 |$X_4$|Orthocenter|$\sec\alpha : \sec\beta : \sec\gamma$|
 |$X_5$|Nine-point Center|$\cos\left(\beta - \gamma\right) : \cos\left(\gamma - \alpha\right) : \cos\left(\alpha - \beta\right)$|
 |$X_6$|Symmedian point|$a : b : c$|
+
 </div>
 
 See below for interactive widgets that support notebooks attached:
