@@ -62,40 +62,40 @@ Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locu
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_1\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_1$</td>
       <td style="padding:8px; border:1px solid #555;">Incenter</td>
-      <td style="padding:8px; border:1px solid #555;">\(1 : 1 : 1\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
+      <td style="padding:8px; border:1px solid #555;">$1 : 1 : 1$</td>
+      <td style="padding:8px; border:1px solid #555;">$a : b : c$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_2\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_2$</td>
       <td style="padding:8px; border:1px solid #555;">Centroid</td>
-      <td style="padding:8px; border:1px solid #555;">\(bc : ac : ab\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}\)</td>
+      <td style="padding:8px; border:1px solid #555;">$bc : ac : ab$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_3\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_3$</td>
       <td style="padding:8px; border:1px solid #555;">Circumcenter</td>
-      <td style="padding:8px; border:1px solid #555;">\(\cos\alpha : \cos\beta : \cos\gamma\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(a^2(b^2+c^2-a^2) : b^2(a^2+c^2-b^2) : c^2(a^2+b^2-c^2)\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\cos\alpha : \cos\beta : \cos\gamma$</td>
+      <td style="padding:8px; border:1px solid #555;">$a^2(b^2+c^2-a^2) : b^2(a^2+c^2-b^2) : c^2(a^2+b^2-c^2)$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_4\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_4$</td>
       <td style="padding:8px; border:1px solid #555;">Orthocenter</td>
-      <td style="padding:8px; border:1px solid #555;">\(\sec\alpha : \sec\beta : \sec\gamma\)</td>
-      <td style="padding:8px; border:1px solid #555;">\((a^2+b^2-c^2)(c^2+a^2-b^2) : (b^2+c^2-a^2)(a^2+b^2-c^2) : (c^2+a^2-b^2)(b^2+c^2-a^2)\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\sec\alpha : \sec\beta : \sec\gamma$</td>
+      <td style="padding:8px; border:1px solid #555;">$(a^2+b^2-c^2)(c^2+a^2-b^2) : (b^2+c^2-a^2)(a^2+b^2-c^2) : (c^2+a^2-b^2)(b^2+c^2-a^2)$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_5\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_5$</td>
       <td style="padding:8px; border:1px solid #555;">Nine-point Center</td>
-      <td style="padding:8px; border:1px solid #555;">\(\cos(\beta-\gamma) : \cos(\gamma-\alpha) : \cos(\alpha-\beta)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(a^2(b^2+c^2)-(b^2-c^2)^2 : b^2(c^2+a^2)-(c^2-a^2)^2 : c^2(a^2+b^2)-(a^2-b^2)^2\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\cos(\beta-\gamma) : \cos(\gamma-\alpha) : \cos(\alpha-\beta)$</td>
+      <td style="padding:8px; border:1px solid #555;">$a^2(b^2+c^2)-(b^2-c^2)^2 : b^2(c^2+a^2)-(c^2-a^2)^2 : c^2(a^2+b^2)-(a^2-b^2)^2$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_6\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_6$</td>
       <td style="padding:8px; border:1px solid #555;">Symmedian Point</td>
-      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(a^2 : b^2 : c^2\)</td>
+      <td style="padding:8px; border:1px solid #555;">$a : b : c$</td>
+      <td style="padding:8px; border:1px solid #555;">$a^2 : b^2 : c^2$</td>
     </tr>
   </tbody>
 </table>
@@ -135,22 +135,22 @@ This interactive snippet supports the example at the end of my research article,
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_1\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_1$</td>
       <td style="padding:8px; border:1px solid #555;">Incenter</td>
-      <td style="padding:8px; border:1px solid #555;">\(1 : 1 : 1\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
+      <td style="padding:8px; border:1px solid #555;">$1 : 1 : 1$</td>
+      <td style="padding:8px; border:1px solid #555;">$a : b : c$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_2\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_2$</td>
       <td style="padding:8px; border:1px solid #555;">Centroid</td>
-      <td style="padding:8px; border:1px solid #555;">\(bc : ac : ab\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}\)</td>
+      <td style="padding:8px; border:1px solid #555;">$bc : ac : ab$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(X_8\)</td>
+      <td style="padding:8px; border:1px solid #555;">$X_8$</td>
       <td style="padding:8px; border:1px solid #555;">Nagel Point</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{b+c-a}{a} : \dfrac{a+c-b}{b} : \dfrac{a+b-c}{c}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(s-a : s-b : s-c\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{b+c-a}{a} : \dfrac{a+c-b}{b} : \dfrac{a+b-c}{c}$</td>
+      <td style="padding:8px; border:1px solid #555;">$s-a : s-b : s-c$</td>
     </tr>
   </tbody>
 </table>
@@ -216,37 +216,37 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
   <thead>
     <tr>
       <th style="padding:8px; border:1px solid #555;">Cosine</th>
-      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+      <th style="padding:8px; border:1px solid #555;">$t$-Equation</th>
       <th style="padding:8px; border:1px solid #555;">Sine</th>
-      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+      <th style="padding:8px; border:1px solid #555;">$t$-Equation</th>
       <th style="padding:8px; border:1px solid #555;">Tangent</th>
-      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+      <th style="padding:8px; border:1px solid #555;">$t$-Equation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1-t^2}{1+t^2}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{2t}{1+t^2}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{2t}{1-t^2}\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\cos\!\left(\dfrac{\theta}{2^{n-1}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1-t^2}{1+t^2}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\sin\!\left(\dfrac{\theta}{2^{n-1}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{2t}{1+t^2}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\tan\!\left(\dfrac{\theta}{2^{n-1}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{2t}{1-t^2}$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1-6t^2+t^4}{(1+t^2)^2}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{4t(1-t^2)}{(1+t^2)^2}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{4t(1-t^2)}{1-6t^2+t^4}\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\cos\!\left(\dfrac{\theta}{2^{n-2}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1-6t^2+t^4}{(1+t^2)^2}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\sin\!\left(\dfrac{\theta}{2^{n-2}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{4t(1-t^2)}{(1+t^2)^2}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\tan\!\left(\dfrac{\theta}{2^{n-2}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{4t(1-t^2)}{1-6t^2+t^4}$</td>
     </tr>
     <tr>
-      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{(1+t^2)^{2^k-1}}\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j}t^{2j}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{(1+t^2)^{2^k-1}}\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j+1}t^{2j+1}\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
-      <td style="padding:8px; border:1px solid #555;">\(\dfrac{\sin\frac{\theta}{2^{n-k}}}{\cos\frac{\theta}{2^{n-k}}}\)</td>
+      <td style="padding:8px; border:1px solid #555;">$\cos\!\left(\dfrac{\theta}{2^{n-k}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1}{(1+t^2)^{2^k-1}}\displaystyle\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j}t^{2j}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\sin\!\left(\dfrac{\theta}{2^{n-k}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{1}{(1+t^2)^{2^k-1}}\displaystyle\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j+1}t^{2j+1}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\tan\!\left(\dfrac{\theta}{2^{n-k}}\right)$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{\sin\frac{\theta}{2^{n-k}}}{\cos\frac{\theta}{2^{n-k}}}$</td>
     </tr>
   </tbody>
 </table>
