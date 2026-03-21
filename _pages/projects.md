@@ -246,7 +246,7 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
       <td style="padding:8px; border:1px solid #555;">$\sin\!\left(\dfrac{\theta}{2^{n-k}}\right)$</td>
       <td style="padding:8px; border:1px solid #555;">$\dfrac{1}{(1+t^2)^{2^k-1}}\displaystyle\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j+1}t^{2j+1}$</td>
       <td style="padding:8px; border:1px solid #555;">$\tan\!\left(\dfrac{\theta}{2^{n-k}}\right)$</td>
-      <td style="padding:8px; border:1px solid #555;">$\dfrac{\sin\frac{\theta}{2^{n-k}}}{\cos\frac{\theta}{2^{n-k}}}$</td>
+      <td style="padding:8px; border:1px solid #555;">$\dfrac{\displaystyle\sum_{j=0}^{\infty}(-1)^j\binom{2^k}{2j+1}t^{2j+1}}{\displaystyle\sum_{j=0}^{\infty}(-1)^j\binom{2^k}{2j}t^{2j}}$</td>
     </tr>
   </tbody>
 </table>
