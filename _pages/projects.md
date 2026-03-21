@@ -50,17 +50,55 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 
 Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus as tabulated below:
 
-<div align="center">
-  
-|**ETC Reference**|**Name**|**Trilinear Coordinates**|**Barycentric Coordinates**|
-|:---|:---|:---:|:---:|
-|$X_1$|Incenter|$1 : 1 : 1$|$a : b : c$|
-|$X_2$|Centroid|$bc : ac : ab$|$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$|
-|$X_3|Circumcenter|$\cos\alpha : \cos\beta : \cos\gamma$|$a^2(b^2 + c^2 - a^2) : b^2(a^2 + c^2 - b^2) : c^2(a^2 + b^2 - c^2)$|
-|$X_4$|Orthocenter|$\sec\alpha : \sec\beta : \sec\gamma$|$(a^2 + b^2 - c^2)(c^2 + a^2 - b^2) : (b^2 + c^2 - a^2)(a^2 + b^2 - c^2) : (c^2 + a^2 - b^2)(b^2 + c^2 - a^2)$|
-|$X_5$|Nine-point Center|$\cos\left(\beta - \gamma\right) : \cos\left(\gamma - \alpha\right) : \cos\left(\alpha - \beta\right)$|$a^2(b^2+c^2)-(b^2-c^2)^2 : b^2(c^2+a^2)-(c^2-a^2)^2 : c^2(a^2+b^2)-(a^2-b^2)^2$|
-|$X_6$|Symmedian point|$a : b : c$|$a^2 : b^2 : c^2$|
-
+<div style="overflow-x:auto;">
+<table style="margin:auto; border-collapse:collapse; text-align:center;">
+  <thead>
+    <tr>
+      <th style="padding:8px; border:1px solid #555;">ETC Reference</th>
+      <th style="padding:8px; border:1px solid #555;">Name</th>
+      <th style="padding:8px; border:1px solid #555;">Trilinear Coordinates</th>
+      <th style="padding:8px; border:1px solid #555;">Barycentric Coordinates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_1\)</td>
+      <td style="padding:8px; border:1px solid #555;">Incenter</td>
+      <td style="padding:8px; border:1px solid #555;">\(1 : 1 : 1\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_2\)</td>
+      <td style="padding:8px; border:1px solid #555;">Centroid</td>
+      <td style="padding:8px; border:1px solid #555;">\(bc : ac : ab\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_3\)</td>
+      <td style="padding:8px; border:1px solid #555;">Circumcenter</td>
+      <td style="padding:8px; border:1px solid #555;">\(\cos\alpha : \cos\beta : \cos\gamma\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(a^2(b^2+c^2-a^2) : b^2(a^2+c^2-b^2) : c^2(a^2+b^2-c^2)\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_4\)</td>
+      <td style="padding:8px; border:1px solid #555;">Orthocenter</td>
+      <td style="padding:8px; border:1px solid #555;">\(\sec\alpha : \sec\beta : \sec\gamma\)</td>
+      <td style="padding:8px; border:1px solid #555;">\((a^2+b^2-c^2)(c^2+a^2-b^2) : (b^2+c^2-a^2)(a^2+b^2-c^2) : (c^2+a^2-b^2)(b^2+c^2-a^2)\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_5\)</td>
+      <td style="padding:8px; border:1px solid #555;">Nine-point Center</td>
+      <td style="padding:8px; border:1px solid #555;">\(\cos(\beta-\gamma) : \cos(\gamma-\alpha) : \cos(\alpha-\beta)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(a^2(b^2+c^2)-(b^2-c^2)^2 : b^2(c^2+a^2)-(c^2-a^2)^2 : c^2(a^2+b^2)-(a^2-b^2)^2\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_6\)</td>
+      <td style="padding:8px; border:1px solid #555;">Symmedian Point</td>
+      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(a^2 : b^2 : c^2\)</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 See below for interactive widgets that support notebooks attached:
@@ -85,14 +123,37 @@ See below for interactive widgets that support notebooks attached:
 
 This interactive snippet supports the example at the end of my research article, where we analyze three following points:
 
-<div align="center">
-  
-|**ETC Reference**|**Name**|**Trilinear Coordinates**|**Barycentric Coordinates**|
-|:---|:---|:---:|:---:|
-|$X_1$|Incenter|$1 : 1 : 1$|$a : b : c$|
-|$X_2$|Centroid|$bc : ac : ab$|$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$|
-|$X_8$|Nagel point|$\dfrac{b + c - a}{a} : \dfrac{a + c - b}{b} : \dfrac{a + b - c}{c}$|$s - a : s - b : s - c$|
-
+<div style="overflow-x:auto;">
+<table style="margin:auto; border-collapse:collapse; text-align:center;">
+  <thead>
+    <tr>
+      <th style="padding:8px; border:1px solid #555;">ETC Reference</th>
+      <th style="padding:8px; border:1px solid #555;">Name</th>
+      <th style="padding:8px; border:1px solid #555;">Trilinear Coordinates</th>
+      <th style="padding:8px; border:1px solid #555;">Barycentric Coordinates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_1\)</td>
+      <td style="padding:8px; border:1px solid #555;">Incenter</td>
+      <td style="padding:8px; border:1px solid #555;">\(1 : 1 : 1\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(a : b : c\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_2\)</td>
+      <td style="padding:8px; border:1px solid #555;">Centroid</td>
+      <td style="padding:8px; border:1px solid #555;">\(bc : ac : ab\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(X_8\)</td>
+      <td style="padding:8px; border:1px solid #555;">Nagel Point</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{b+c-a}{a} : \dfrac{a+c-b}{b} : \dfrac{a+b-c}{c}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(s-a : s-b : s-c\)</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 where $s = \frac{1}{2}(a + b + c)$ denotes the semiperimeter. Known for lying on the Nagel line, these points are governed by the following property:
@@ -150,13 +211,45 @@ $$
 
 which transforms equations, containing $\sin\theta$ and $\cos\theta$, into rational expressions. In the similar manner, the substitution $t = \tan\frac{\theta}{2^{n}}$ produces the following pattern for powers of $2$'s:
 
-<div align="center">
-
-|**Cosine**|**$t$-Equation**|**Sine**|**$t$-Equation**|**Tangent**|**$t$-Equation**|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|$\cos\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{1 - t^2}{1 + t^2}$|$\sin\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{2t}{1 + t^2}$|$\tan\left(\dfrac{\theta}{2^{n - 1}}\right)$|$\dfrac{2t}{1 - t^2}$|
-|$\cos\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{1 - 6t^2 + t^4}{\left(1 + t^2\right)^2}$|$\sin\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{4t(1 - t^2)}{(1 + t^2)^2}$|$\tan\left(\dfrac{\theta}{2^{n - 2}}\right)$|$\dfrac{4t(1 - t^2)}{1 - 6t^2 + t^4}$|
-|$\cos\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty} \left((-1)^{j}\dbinom{2^k}{2j}t^{2j}\right)$|$\sin\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty}\left( (-1)^{j}\dbinom{2^k}{2j + 1}t^{2j + 1}\right)$|$\tan\left(\dfrac{\theta}{2^{n - k}}\right)$|$\dfrac{\sin\frac{\theta}{2^{n - k}}}{\cos\frac{\theta}{2^{n - k}}}$|
+<div style="overflow-x:auto;">
+<table style="margin:auto; border-collapse:collapse; text-align:center;">
+  <thead>
+    <tr>
+      <th style="padding:8px; border:1px solid #555;">Cosine</th>
+      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+      <th style="padding:8px; border:1px solid #555;">Sine</th>
+      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+      <th style="padding:8px; border:1px solid #555;">Tangent</th>
+      <th style="padding:8px; border:1px solid #555;">\(t\)-Equation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1-t^2}{1+t^2}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{2t}{1+t^2}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-1}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{2t}{1-t^2}\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1-6t^2+t^4}{(1+t^2)^2}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{4t(1-t^2)}{(1+t^2)^2}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-2}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{4t(1-t^2)}{1-6t^2+t^4}\)</td>
+    </tr>
+    <tr>
+      <td style="padding:8px; border:1px solid #555;">\(\cos\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{(1+t^2)^{2^k-1}}\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j}t^{2j}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\sin\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{1}{(1+t^2)^{2^k-1}}\sum_{j=0}^{\infty}(-1)^j\dbinom{2^k}{2j+1}t^{2j+1}\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\tan\!\left(\dfrac{\theta}{2^{n-k}}\right)\)</td>
+      <td style="padding:8px; border:1px solid #555;">\(\dfrac{\sin\frac{\theta}{2^{n-k}}}{\cos\frac{\theta}{2^{n-k}}}\)</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 where $k$ is an integer. Above derivations follow that cosines and sines are related to the complex exponentials:
