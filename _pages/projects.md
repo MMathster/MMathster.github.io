@@ -88,8 +88,6 @@ $$
 X_8 + 2X_1 = 3X_2
 $$
 
-where $\left|\overline{X_2 X_8}\right| = 2 \left|\overline{X_2 X_1}\right|$.
-
 While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates clockwise! Check out the widget to visualize how these three special points interact with the parameter $\theta$.
 
 - **Geogebra**:  
