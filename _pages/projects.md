@@ -49,12 +49,14 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 
 Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus as tabulated below:
 
-- $X_1$ is the incenter $I$;
-- $X_2$ is the centroid $G$;
-- $X_3$ is the circumcenter;
-- $X_4$ is the orthocenter $H$;
-- $X_5$ is the nine-point center $N$;
-- $X_6$ is the symmedian point $K$;
+|**ETC Reference**|**Name**|**Barycentric Coordinates**|
+|:---|:---|:---:|
+|$X_1$|Incenter|$1 : 1 : 1$|
+|$X_2$|Centroid|$bc : ac : ab$|
+|$X_3|Circumcenter|$\cos\alpha : \cos\beta : \cos\gamma$|
+|$X_4$|Orthocenter|$\sec\alpha : \sec\beta : \sec\gamma$|
+|$X_5$|Nine-point Center|$\cos\left(\beta - \gamma\right) : \cos\left(\gamma - \alpha\right) : \cos\left(\alpha - \beta\right)$|
+|$X_6$|Symmedian point|$a : b : c$|
 
 See below for interactive widgets that support notebooks attached:
 
@@ -76,7 +78,7 @@ See below for interactive widgets that support notebooks attached:
   <figcaption>As point $C$ varies along the circumference, with points $A = (1,0)$ and $B = (-1,0)$ fixed, points $X_1$, $X_2$ and $X_8$ rotate simultaneously, but at different directions.</figcaption>
 </figure>
 
-This interactive snippet supports the example at the end of my research article. The barycentric coordinates for each of three centers are:
+This interactive snippet supports the example at the end of my research article. The trilinear coordinates for each of three centers are:
 
 - **Incenter $X_1$**: $(1 : 1 : 1)$
 - **Centroid $X_2$**: $(a : b : c)$
@@ -102,7 +104,7 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
   <figcaption>The bow-tie shaped locus of the Feuerbach point $X_{11}$.</figcaption>
 </figure>
 
-Another special mention of mine is the Feuerbach point $X_{11}$. The barycentric coordinates of the Feuerbach point $X_{11}$ is
+Another special mention of mine is the Feuerbach point $X_{11}$. The trilinear coordinates of the Feuerbach point $X_{11}$ is
 
 $$
 1 - \cos\left(\beta - \gamma\right) : 1 - \cos\left(\gamma - \alpha\right) : 1 - \cos\left(\alpha - \eta\right)
