@@ -15,9 +15,9 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 Inspired by the former STEM community in the year 2021, I worked on discovering loci of triangle centers curated from Clark Kimberling's *Encyclopedia of Triangle Centers*. For this section, suppose that a unit circle inscribes a triangle $\triangle ABC$, where points $A = (1,0)$ and $B = (-1,0)$ are fixed. As point $C$ varies, where $\theta \in [0,2\pi)$ the triangle center $X_n$ generates a locus. By considering $C = \left(\cos\theta, \sin\theta\right)$, where $\theta \in [0, \pi)$, the side lengths are
 
-- \(a = \left|\overline{BC}\right| = 2\cos\frac{\theta}{2}\)
-- \(b = \left|\overline{AC}\right| = 2\sin\frac{\theta}{2}\)
-- \(c = \left|\overline{AB}\right| = 2,\)
+- $a = \left|\overline{BC}\right| = 2\cos\frac{\theta}{2}$
+- $b = \left|\overline{AC}\right| = 2\sin\frac{\theta}{2}$
+- $c = \left|\overline{AB}\right| = 2,$
 
 and the angles (in radians) are
 
