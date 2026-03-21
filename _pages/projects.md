@@ -51,14 +51,14 @@ Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locu
 
 <div align="center">
   
-|**ETC Reference**|**Name**|**Trilinear Coordinates**|
-|:---|:---|:---:|
-|$X_1$|Incenter|$1 : 1 : 1$|
-|$X_2$|Centroid|$bc : ac : ab$|
-|$X_3|Circumcenter|$\cos\alpha : \cos\beta : \cos\gamma$|
-|$X_4$|Orthocenter|$\sec\alpha : \sec\beta : \sec\gamma$|
-|$X_5$|Nine-point Center|$\cos\left(\beta - \gamma\right) : \cos\left(\gamma - \alpha\right) : \cos\left(\alpha - \beta\right)$|
-|$X_6$|Symmedian point|$a : b : c$|
+|**ETC Reference**|**Name**|**Trilinear Coordinates**|**Barycentric Coordinates**|
+|:---|:---|:---:|:---:|
+|$X_1$|Incenter|$1 : 1 : 1$|$a : b : c$|
+|$X_2$|Centroid|$bc : ac : ab$|$\dfrac{1}{3} : \dfrac{1}{3} : \dfrac{1}{3}$|
+|$X_3|Circumcenter|$\cos\alpha : \cos\beta : \cos\gamma$|$a^2(b^2 + c^2 - a^2) : b^2(a^2 + c^2 - b^2) : c^2(a^2 + b^2 - c^2)$|
+|$X_4$|Orthocenter|$\sec\alpha : \sec\beta : \sec\gamma$|$(a^2 + b^2 - c^2)(c^2 + a^2 - b^2) : (b^2 + c^2 - a^2)(a^2 + b^2 - c^2) : (c^2 + a^2 - b^2)(b^2 + c^2 - a^2)$|
+|$X_5$|Nine-point Center|$\cos\left(\beta - \gamma\right) : \cos\left(\gamma - \alpha\right) : \cos\left(\alpha - \beta\right)$|$a^2(b^2+c^2)-(b^2-c^2)^2 : b^2(c^2+a^2)-(c^2-a^2)^2 : c^2(a^2+b^2)-(a^2-b^2)^2$|
+|$X_6$|Symmedian point|$a : b : c$|$a^2 : b^2 : c^2$|
 
 </div>
 
@@ -75,18 +75,24 @@ See below for interactive widgets that support notebooks attached:
 - Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
 - Fully reproducible — all code and dependencies are included in the repository.
 
-### Loci of Incenter $X_1$, Centroid $X_2$ and Gergonne Point $X_8$
+### Loci of Incenter $X_1$, Centroid $X_2$ and Nagel Point $X_8$
 
 <figure style="text-align: center;">
   <img src="/assets/images/x8_locus.gif" alt="Three cycling points">
   <figcaption>As point $C$ varies along the circumference, with points $A = (1,0)$ and $B = (-1,0)$ fixed, points $X_1$, $X_2$ and $X_8$ rotate simultaneously, but at different directions.</figcaption>
 </figure>
 
-This interactive snippet supports the example at the end of my research article. The trilinear coordinates for each of three centers are:
+This interactive snippet supports the example at the end of my research article, where we analyze three following points:
 
-- **Incenter $X_1$**: $(1 : 1 : 1)$
-- **Centroid $X_2$**: $(a : b : c)$
-- **Gergonne Point $X_8$**: $\left(\frac{b + c - a}{a} : \frac{a + c - b}{b} : \frac{a + b - c}{c}\right)$
+<div align="center">
+  
+|**ETC Reference**|**Name**|**Trilinear Coordinates**|
+|:---|:---|:---:|
+|$X_1$|Incenter|$1 : 1 : 1$|
+|$X_2$|Centroid|$bc : ac : ab$|
+|$X_8$|Nagel point|$\dfrac{b + c - a}{a} : \dfrac{a + c - b}{b} : \dfrac{a + b - c}{c}$|
+
+</div>
 
 Known for lying on the Nagel line, these points are governed by the following property:
 
