@@ -63,7 +63,7 @@ See below for interactive widgets that support notebooks attached:
 
 ### Loci of Incenter $X_1$, Centroid $X_2$ and Gergonne Point $X_8$
 
-<figure>
+<figure style="text-align: center;">
   <img src="/assets/images/x8_locus.gif" alt="Three cycling points">
   <figcaption>As point $C$ varies along the circumference, with points $A = (1,0)$ and $B = (-1,0)$ fixed, points $X_1$, $X_2$ and $X_8$ rotate simultaneously, but at different directions.</figcaption>
 </figure>
@@ -88,7 +88,7 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
 
 ### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
 
-<figure>
+<figure style="text-align: center;">
   <img src="/assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus">
   <figcaption>The bow-tie shaped locus of the Feuerbach point $X_{11}$.</figcaption>
 </figure>
