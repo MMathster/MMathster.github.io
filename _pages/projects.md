@@ -27,9 +27,9 @@ and the angles (in radians) are
 
 $$
 \begin{array}{rl}
-\alpha =& \angle A = \frac{1}{2}\left(\pi - \theta\right)\\
-\beta =& \angle B = \frac{1}{2}\theta\\
-\gamma =& \angle C = \frac{\pi}{2}
+\alpha =& \angle A = \dfrac{1}{2}\left(\pi - \theta\right)\\
+\beta =& \angle B = \dfrac{1}{2}\theta\\
+\gamma =& \angle C = \dfrac{\pi}{2}
 \end{array}
 $$
 
@@ -47,7 +47,7 @@ The notebook covers the research article noted in [Mathematics](/mathematics/) s
 - **Interactive Dashboard (Voila)**:  
   [![Launch Dashboard](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMathster/MMathster.github.io/HEAD?filepath=assets/experimental_center.ipynb&urlpath=voila/render/assets/experimental_center.ipynb)
 
-Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus, where
+Each of these triangle centers between $X_1$ and $X_6$ generates a distinct locus as tabulated below:
 
 - $X_1$ is the incenter $I$;
 - $X_2$ is the centroid $G$;
