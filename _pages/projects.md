@@ -15,15 +15,19 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 Inspired by the former STEM community in the year 2021, I worked on discovering loci of triangle centers curated from Clark Kimberling's *Encyclopedia of Triangle Centers*. For this section, suppose that a unit circle inscribes a triangle $\triangle ABC$, where points $A = (1,0)$ and $B = (-1,0)$ are fixed. As point $C$ varies, where $\theta \in [0,2\pi)$ the triangle center $X_n$ generates a locus. By considering $C = \left(\cos\theta, \sin\theta\right)$, where $\theta \in [0, \pi)$, the side lengths are
 
-- $a = \left|\overline{BC}\right| = 2\cos\frac{\theta}{2}$
-- $b = \left|\overline{AC}\right| = 2\sin\frac{\theta}{2}$
-- $c = \left|\overline{AB}\right| = 2,$
+\begin{align*}
+a =& \left|\overline{BC}\right| = 2\cos\frac{\theta}{2}\\
+b =& \left|\overline{AC}\right| = 2\sin\frac{\theta}{2}\\
+c =& \left|\overline{AB}\right| = 2
+\end{align*}
 
 and the angles (in radians) are
 
-- $\alpha = \angle A = \frac{1}{2}\left(\pi - \theta\right)$
-- $\beta = \angle B = \frac{1}{2}\theta$
-- $\gamma = \angle C = \frac{\pi}{2}$
+\begin{align*}
+\alpha =& \angle A = \frac{1}{2}\left(\pi - \theta\right)\\
+\beta =& \angle B = \frac{1}{2}\theta\\
+\gamma =& \angle C = \frac{\pi}{2}
+\end{align*}
 
 In classical geometry, we learn that the altitudes of a triangle concur at a single point. But as we move beyond the basics, a mystery unfolds: there are over 60,000 documented triangle centers, each with its own unique "personality" and algebraic signature.
 
