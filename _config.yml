@@ -14,7 +14,7 @@ include:
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
-  math_engine: katex
+  math_engine: null
 
 minimal_mistakes_skin: "dark"
 
