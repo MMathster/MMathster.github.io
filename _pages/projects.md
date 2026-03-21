@@ -158,6 +158,12 @@ which transforms equations, containing $\sin\theta$ and $\cos\theta$, into ratio
 |$\cos\dfrac{\theta}{2^{n - k}}$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty} \left((-1)^{j}\dbinom{2^k}{2j}t^{2j}\right)$|$\sin\dfrac{\theta}{2^{n - k}}$|$\dfrac{1}{(1 + t^2)^{2k - 1}}\sum\limits_{j = 0}^{\infty}\left( (-1)^{j}\dbinom{2^k}{2j + 1}t^{2j + 1}\right)$|$\tan\dfrac{\theta}{2^{n - k}}$|$\dfrac{\sin\frac{\theta}{2^{n - k}}}{\cos\frac{\theta}{2^{n - k}}}$|
 </div>
 
+where $k$ is an integer. Above derivations follow that cosines and sines are related to the complex exponentials:
+
+$$
+\cos\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\operatorname{Re}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}, \qquad \sin\left(\dfrac{\theta}{2^{n - k}}\right) = \dfrac{\operatorname{Im}\left(\left(1 + it\right)^{2^k}\right)}{(1 + t^2)^{2^{k - 1}}}
+$$
+
 Since triangle side lengths are of the form $\sin\frac{\theta}{2}$ and $\cos\frac{\theta}{2}$, we can apply that idea for greater powers of $2$'s i.e. $\sin\frac{\theta}{4}$ and $\cos\frac{\theta}{8}$. For instance, if the "deepest" angle factor detected in the expression $\sin\frac{\theta}{2}\cos\frac{\theta}{4}$ is $4$, then the substitution $t = \tan\frac{\theta}{4 \cdot 2} = \tan\frac{\theta}{8}$. The pipeline dynamically chooses the minimal $n$ (the "Weierstrass Depth") required to clear all half-angle or quarter-angle identities found in the ETC source.
 
 Extending this to mixed angle denominators, we can deduce that for the universal substitution $t = \tan\left(\frac{\theta}{p}\right)$ where $p$ is an integer,
@@ -169,9 +175,9 @@ The objective is to extract barycentric coordinates and determine the parametriz
 
 - **ETC Center Table Repository (Github)**:  
   [![Visit Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/MMathster/ETC-Center-Table)
-- **JupyterLab (Binder):**
+- **JupyterLab (Binder):**  
   [![View Notebook](https://img.shields.io/badge/Platform-Jupyter%20Labs-blue?logo=github)](https://mybinder.org/v2/gh/MMathster/ETC-Center-Table/HEAD?labpath=ETC_Center_Table_Thales.ipynb)
-- **Classic Notebook (Binder):**
+- **Classic Notebook (Binder):**  
   [![View Notebook](https://img.shields.io/badge/GitHub-Notebook-blue?logo=github)](https://mybinder.org/v2/gh/MMathster/ETC-Center-Table/HEAD?filepath=ETC_Center_Table_Thales.ipynb)
 
 **Highlights:**
