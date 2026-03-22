@@ -114,7 +114,11 @@ See below for interactive widgets that support notebooks attached:
 - Built using Jupyter Notebook, ipywidgets, and Voila for interactive exploration.  
 - Fully reproducible — all code and dependencies are included in the repository.
 
-### Loci of Incenter $X_1$, Centroid $X_2$ and Nagel Point $X_8$
+### Selected Triangle Centers
+
+The following are snippets of my selected triangle centers.
+
+#### Loci of Incenter $X_1$, Centroid $X_2$ and Nagel Point $X_8$
 
 <figure style="text-align: center;">
   <img src="/assets/images/x8_locus.gif" alt="Three cycling points">
@@ -168,8 +172,10 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
   <a href="https://www.geogebra.org/classic/jqnrskqw" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
+- **JSXGraph**:  
+  [![Launch Discovery Sandbox](https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white)](https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html)
 
-### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+#### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
 
 <figure style="text-align: center;">
   <img src="/assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus">
@@ -200,6 +206,8 @@ View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 
   <a href="https://www.geogebra.org/classic/uhu2ap6q" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
+- **JSXGraph**:
+  [![Launch Discovery Sandbox](https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white)](https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html)
 
 ### Kimberling Triangle Center Loci Compilation (In Progress)
 
