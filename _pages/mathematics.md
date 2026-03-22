@@ -3,8 +3,6 @@ title: "Mathematics"
 permalink: /mathematics/
 ---
 
-## Mathematics
-
 This page collects formal derivations, expository notes, and structured mathematical manuscripts.  
 Work is organized by research area. PDFs are added progressively as manuscripts mature.
 
