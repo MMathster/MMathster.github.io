@@ -208,7 +208,7 @@ View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 
   <a href="https://www.geogebra.org/classic/uhu2ap6q" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
-- **JSXGraph**:
+- **JSXGraph**:  
   <a href="https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html" target="_blank" class="glow-new-version">
      <img src="https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white">
   </a>
