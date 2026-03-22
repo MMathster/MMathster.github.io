@@ -173,7 +173,9 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
 - **JSXGraph**:  
-  [![Launch Discovery Sandbox](https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white)](https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html)
+  <a href="https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
 
 #### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
 
@@ -207,7 +209,9 @@ View widgets below to see how the point $X_{11}$ interacts with $\theta \in [0, 
      <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
   </a>
 - **JSXGraph**:
-  [![Launch Discovery Sandbox](https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white)](https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html)
+  <a href="https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
 
 ### Kimberling Triangle Center Loci Compilation (In Progress)
 
