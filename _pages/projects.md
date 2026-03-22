@@ -4,8 +4,6 @@ permalink: /projects/
 layout: single
 ---
 
-# Projects
-
 This page collects interactive constructions, dynamic visualizations, and exploratory computational models. Projects serve as mathematical laboratories — supporting intuition, testing structural conjectures, and providing visual companions to formal derivations in the [Mathematics](/mathematics/) section.
 
 ---
