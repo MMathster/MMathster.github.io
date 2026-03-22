@@ -4,8 +4,6 @@ permalink: /about/
 toc: false
 ---
 
-## About
-
 Michael Huang is an independent STEM learning content developer with a B.A. in Pure Mathematics, awarded the Arthur Sard Award for Excellence in Mathematics (2014). His work centers on structural analysis across both abstract and applied systems, with an emphasis on rigorous derivation, interpretive precision, and the computational verification of analytic results.
 
 <hr>
