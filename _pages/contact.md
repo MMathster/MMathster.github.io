@@ -3,8 +3,6 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Contact
-
 For mathematical correspondence or professional enquiries:
 
 - GitHub: [github.com/mmathster](https://github.com/mmathster)
