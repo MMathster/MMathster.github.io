@@ -119,7 +119,7 @@ The following are snippets of my selected triangle centers.
 #### Loci of Incenter $X_1$, Centroid $X_2$ and Nagel Point $X_8$
 
 <figure style="text-align: center;">
-  <img src="/assets/images/x8_locus.gif" alt="Three cycling points">
+  <img src="/assets/images/x8_locus.gif" alt="Three cycling points" width="60%">
   <figcaption>As point $C$ varies along the circumference, with points $A = (1,0)$ and $B = (-1,0)$ fixed, points $X_1$, $X_2$ and $X_8$ rotate simultaneously, but at different directions.</figcaption>
 </figure>
 
@@ -178,8 +178,8 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
 #### Ellipse Locus of the Lemoine/Symmedian Point $X_6$
 
 <figure style="text-align: center;">
-  <img src="/assets/images/x6_locus.gif" alt="Feuerbach Bow-tie Locus">
-  <figcaption>The ellipse locus of the Feuerbach point $X_{6}$.</figcaption>
+  <img src="/assets/images/x6_locus.gif" alt="Feuerbach Bow-tie Locus" width="60%">
+  <figcaption>The ellipse locus of the Lemoine point $X_{6}$.</figcaption>
 </figure>
 
 One of the elegant-looking loci is the ellipse. Above is the diagram of the Lemoine point $X_6$ whose trilinear coordinates are
@@ -208,7 +208,7 @@ View widgets to see how the point $X_6$ interacts with $\theta \in [0, 2\pi)$:
 #### Bow-Tie Shaped Locus of the Feuerbach Point $X_{11}$
 
 <figure style="text-align: center;">
-  <img src="/assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus">
+  <img src="/assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus" width="60%">
   <figcaption>The bow-tie shaped locus of the Feuerbach point $X_{11}$.</figcaption>
 </figure>
 
