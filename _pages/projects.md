@@ -10,7 +10,9 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 # 🧮 Triangle Centers
 
-What began in November 2020 as a series of contributions to the Brilliant.org community has evolved into a comprehensive digital laboratory for Euclidean and algebraic geometry. Following the sunsetting of the Brilliant community features, I transitioned my focus from solving static problems to building dynamic visualization tools. Using tools, like JavaScript and Geogebra, I’ve developed a suite of interactive 'Boards' (including the Nagel and Feuerbach studies) that allow users to manipulate vertices and observe the resulting loci of triangle centers in real-time. This project represents a four-year journey from community-driven problem solving to the independent development of STEM educational content, resulting in the discovery and documentation of complex rational curves and geometric identities.
+What began in November 2020 as a series of contributions to the Brilliant.org community has evolved into a comprehensive digital laboratory for Euclidean and algebraic geometry. Following the sunsetting of the Brilliant community features, I transitioned my focus from solving static problems to building dynamic visualization tools. Using tools, like JavaScript and Geogebra, I’ve developed a suite of interactive 'Boards' (including the Nagel and Feuerbach studies) that allow users to manipulate vertices and observe the resulting loci of triangle centers in real-time.
+
+This project represents a 4-year journey from community-driven problem solving to the independent development of STEM educational content, resulting in the discovery and documentation of complex rational curves and geometric identities. More interactive projects of different geometric setups to come soon!
 
 ## Loci of Triangle Centers in Thales Configuration (In Progress)
 
