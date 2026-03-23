@@ -40,6 +40,9 @@ In classical geometry, we learn that the altitudes of a triangle concur at a sin
 
 How do these points move? What curves do they trace as the right triangle $\triangle ABC$ itself deforms? This collection of geometry projects isn't just a collection of proofs—it is a computational laboratory designed to uncover the hidden logic of the plane.
 
+- **Triangle Centers on the Thales Circle (JSXGraph)**:
+  [![Launch Curves](https://img.shields.io/badge/Launch-Curves-007bff?style=for-the-badge&logo=rocket&logoColor=white)](https://mmathster.github.io/ETC-Center-Table/curves.html)
+
 ### Experimental Geometry: Kimberling Triangle Centers
 
 The notebook covers the research article noted in [Mathematics](/mathematics/) section. Explore the fascinating world of triangle centers ($X_1$ - $X_n$) with interactive tools and dynamic visualizations.
