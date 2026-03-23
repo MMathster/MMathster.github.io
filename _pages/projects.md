@@ -10,9 +10,13 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 # 🧮 Triangle Centers
 
+As their name implies, triangle centers are points associated with particular properties within its triangle. Points, like incenter and centroid, were first discovered during Ancient Greece. Since 1980's, more and more triangle centers and properties are introduced to Clark Kimberling's *Encyclopedia of Triangle Centers*, the compilation of over 60,000 centers.
+
+What began in November 2020 as a series of contributions to the Brilliant.org community has evolved into a comprehensive digital laboratory for Euclidean and algebraic geometry. Following the sunsetting of the Brilliant community features, I transitioned my focus from solving static problems to building dynamic visualization tools. Using tools, like JavaScript and Geogebra, I’ve developed a suite of interactive 'Boards' (including the Nagel and Feuerbach studies) that allow users to manipulate vertices and observe the resulting loci of triangle centers in real-time. This project represents a four-year journey from community-driven problem solving to the independent development of STEM educational content, resulting in the discovery and documentation of complex rational curves and geometric identities.
+
 ## Loci of Triangle Centers in Thales Configuration (In Progress)
 
-Inspired by the former STEM community in the year 2021, I worked on discovering loci of triangle centers curated from Clark Kimberling's *Encyclopedia of Triangle Centers*. For this section, suppose that a unit circle inscribes a triangle $\triangle ABC$, where points $A = (1,0)$ and $B = (-1,0)$ are fixed. As point $C$ varies, where $\theta \in [0,2\pi)$ the triangle center $X_n$ generates a locus. By considering $C = \left(\cos\theta, \sin\theta\right)$, where $\theta \in [0, \pi)$, the side lengths are
+For this section, suppose that a unit circle inscribes a triangle $\triangle ABC$, where points $A = (1,0)$ and $B = (-1,0)$ are fixed. As point $C$ varies, where $\theta \in [0,2\pi)$ the triangle center $X_n$ generates a locus. By considering $C = \left(\cos\theta, \sin\theta\right)$, where $\theta \in [0, \pi)$, the side lengths are
 
 $$
 \begin{array}{rl}
