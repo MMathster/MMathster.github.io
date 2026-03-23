@@ -10,8 +10,6 @@ This page collects interactive constructions, dynamic visualizations, and explor
 
 # 🧮 Triangle Centers
 
-As their name implies, triangle centers are points associated with particular properties within its triangle. Points, like incenter and centroid, were first discovered during Ancient Greece. Since 1980's, more and more triangle centers and properties are introduced to Clark Kimberling's *Encyclopedia of Triangle Centers*, the compilation of over 60,000 centers.
-
 What began in November 2020 as a series of contributions to the Brilliant.org community has evolved into a comprehensive digital laboratory for Euclidean and algebraic geometry. Following the sunsetting of the Brilliant community features, I transitioned my focus from solving static problems to building dynamic visualization tools. Using tools, like JavaScript and Geogebra, I’ve developed a suite of interactive 'Boards' (including the Nagel and Feuerbach studies) that allow users to manipulate vertices and observe the resulting loci of triangle centers in real-time. This project represents a four-year journey from community-driven problem solving to the independent development of STEM educational content, resulting in the discovery and documentation of complex rational curves and geometric identities.
 
 ## Loci of Triangle Centers in Thales Configuration (In Progress)
