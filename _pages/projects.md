@@ -175,7 +175,37 @@ While points $X_1$ and $X_2$ both rotate counterclockwise, point $X_8$ rotates c
      <img src="https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white">
   </a>
 
-#### Bow-tie Shaped Locus of the Feuerbach Point $X_{11}$
+#### Ellipse Locus of the Lemoine/Symmedian Point $X_6$
+
+<figure style="text-align: center;">
+  <img src="/assets/images/x6_locus.gif" alt="Feuerbach Bow-tie Locus">
+  <figcaption>The ellipse locus of the Feuerbach point $X_{6}$.</figcaption>
+</figure>
+
+One of the elegant-looking loci is the ellipse. Above is the diagram of the Lemoine point $X_6$ whose trilinear coordinates are
+
+$$
+a : b : c
+$$
+
+The exact form is $x^2 + 4y^2 = 1$, where the parametric curve with the substitution $t = \tan\frac{\theta}{4}$ is
+
+$$
+  X_6(t) = \left(\dfrac{t^4 - 6t^2 + 1}{(1+t^2)^2}, \dfrac{2t - 2t^3}{(1+t^2)^2}\right)
+$$
+
+View widgets to see how the point $X_6$ interacts with $\theta \in [0, 2\pi)$:
+
+- **Geogebra**:  
+  <a href="https://www.geogebra.org/classic/u5hjcmuh" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Open_Full_Screen-Geogebra-6557D2?style=for-the-badge&logo=geogebra&logoColor=black">
+  </a>
+- **JSXGraph**:  
+  <a href="https://mmathster.github.io/ETC-Center-Table/discovery_sandbox.html" target="_blank" class="glow-new-version">
+     <img src="https://img.shields.io/badge/Launch-Discovery%20Sandbox-007bff?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
+
+#### Bow-Tie Shaped Locus of the Feuerbach Point $X_{11}$
 
 <figure style="text-align: center;">
   <img src="/assets/images/x11_locus.gif" alt="Feuerbach Bow-tie Locus">
